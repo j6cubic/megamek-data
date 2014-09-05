@@ -1,0 +1,16 @@
+*.cache
+.DS_Store
+index.ssi
+config.txt*
+
+boards/*
+!boards/custom
+images/*
+!images/camo/custom
+mechfiles/*
+!mechfiles/custom
+names
+rat
+scenarios/*
+!scenarios/custom
+sounds
