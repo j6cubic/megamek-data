@@ -11,6 +11,10 @@ images/*
 !images/camo
 images/camo/*
 !images/camo/custom
+!images/units
+images/units/*
+!images/units/custom
+!images/units/local*
 mechfiles/*
 !mechfiles/custom
 names
