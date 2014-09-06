@@ -3,6 +3,8 @@
 index.ssi
 config.txt*
 
+*.*
+
 boards/*
 !boards/custom
 images/*
