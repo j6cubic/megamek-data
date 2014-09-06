@@ -1,0 +1,151 @@
+Version:1.0
+Guard Dog IIC
+GDG2
+
+Config:Quad
+TechBase:Clan
+Era:3145
+Rules Level:4
+
+Mass:70
+Engine:350 XL (Clan) Engine(IS)
+Structure:IS Standard
+Myomer:Standard
+
+Heat Sinks:14 Double
+Walk MP:5
+Jump MP:0
+
+Armor:Standard(IS/Clan)
+FLL Armor:16
+FRL Armor:16
+LT Armor:13
+RT Armor:13
+CT Armor:19
+HD Armor:9
+RLL Armor:12
+RRL Armor:16
+RTL Armor:4
+RTR Armor:4
+RTC Armor:6
+
+Weapons:5
+HAG/30, Right Torso
+ER Medium Laser, Left Torso
+ER Medium Laser, Left Torso
+ER Medium Laser, Left Torso
+Laser AMS, Head
+
+Front Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Front Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+CLERMediumLaser (T)CLERMediumLaser
+CLERMediumLaser (T)CLERMediumLaser
+CLERMediumLaser (T)CLERMediumLaser
+HAG/30 Ammo
+HAG/30 Ammo
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+CLQuadTurret
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+CLHAG30
+CLHAG30
+CLHAG30
+CLHAG30
+CLHAG30
+CLHAG30
+CLHAG30
+CLHAG30
+HAG/30 Ammo
+CLCASEII
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+CLAngelECMSuite
+CLAngelECMSuite
+
+Head:
+Life Support
+Sensors
+Cockpit
+CLLaserAntiMissileSystem
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Rear Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+HAG/30 Ammo
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Rear Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+HAG/30 Ammo
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

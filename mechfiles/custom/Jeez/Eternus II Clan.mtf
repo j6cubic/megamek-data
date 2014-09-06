@@ -1,0 +1,139 @@
+Version:1.1
+Eternus II
+Clan
+
+Config:Biped
+TechBase:Clan
+Era:3080
+Rules Level:5
+
+Mass:100
+Engine:300 Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:24 Double
+Walk MP:3
+Jump MP:0
+
+Armor:Ferro-Fibrous
+LA Armor:34
+RA Armor:34
+LT Armor:32
+RT Armor:32
+CT Armor:47
+HD Armor:9
+LL Armor:42
+RL Armor:42
+RTL Armor:10
+RTR Armor:10
+RTC Armor:15
+
+Weapons:13
+1 CLLaserAntiMissileSystem, Right Torso
+1 CLLaserAntiMissileSystem, Left Torso
+1 CLAngelECM, Center Torso
+1 CLERPPC, Right Arm
+1 CLHeavyMediumLaser, Left Arm
+1 CLMediumPulseLaser, Left Arm
+1 CLMediumPulseLaser, Right Arm
+1 CLMediumPulseLaser, Right Arm
+1 CLMediumPulseLaser, Left Arm
+1 CLMediumPulseLaser, Right Arm
+1 CLLaserAntiMissileSystem, Right Torso
+1 CLLaserAntiMissileSystem, Left Torso
+1 CLMediumPulseLaser, Left Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLHeavyMediumLaser
+CLHeavyMediumLaser
+CLMediumPulseLaser
+CLMediumPulseLaser
+CLMediumPulseLaser
+-Empty-
+CLDouble Heat Sink
+CLDouble Heat Sink
+Ferro-Fibrous
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLERPPC
+CLERPPC
+CLMediumPulseLaser
+CLMediumPulseLaser
+CLMediumPulseLaser
+-Empty-
+CLDouble Heat Sink
+CLDouble Heat Sink
+Ferro-Fibrous
+
+Left Torso:
+CLLaserAntiMissileSystem
+CLLaserAntiMissileSystem
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+
+Right Torso:
+CLLaserAntiMissileSystem
+CLLaserAntiMissileSystem
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+CLAngelECM
+CLAngelECM
+
+Head:
+Life Support
+Sensors
+Cockpit
+Ferro-Fibrous
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+Ferro-Fibrous
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+Ferro-Fibrous

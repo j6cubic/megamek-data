@@ -1,0 +1,130 @@
+Version:1.1
+Best Idea Ever
+BIE
+
+Config:Biped
+TechBase:Mixed (Clan Chassis)
+Era:0
+Rules Level:4
+
+Mass:10
+Engine:170 XXL Fusion Engine (Clan)
+Structure:Endo-Steel
+Myomer:CLMASC
+
+Heat Sinks:10 Double (Clan)
+Walk MP:17
+Jump MP:0
+
+Armor:Ferro-Fibrous (Clan)
+LA Armor:1
+RA Armor:1
+LT Armor:2
+RT Armor:2
+CT Armor:2
+HD Armor:7
+LL Armor:2
+RL Armor:2
+RTL Armor:0
+RTR Armor:0
+RTC Armor:0
+
+Weapons:4
+1 CLERMicroLaser, Right Arm
+1 CLERMicroLaser, Left Arm
+1 CLERMicroLaser, Left Arm
+1 CLERMicroLaser, Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLERMicroLaser
+CLERMicroLaser
+Endo-Steel
+Ferro-Fibrous
+Ferro-Fibrous
+Endo-Steel
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLERMicroLaser
+CLERMicroLaser
+Endo-Steel
+Ferro-Fibrous
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Engine
+Engine
+Engine
+Engine
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+Endo-Steel
+Ferro-Fibrous
+Endo-Steel
+-Empty-
+
+Right Torso:
+Engine
+Engine
+Engine
+Engine
+CL Super Charger
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+Endo-Steel
+Ferro-Fibrous
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Engine
+Engine
+
+Head:
+Life Support
+Sensors
+Cockpit
+Endo-Steel
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+-Empty-

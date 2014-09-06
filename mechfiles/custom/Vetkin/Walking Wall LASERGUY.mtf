@@ -1,0 +1,133 @@
+Version:1.1
+Walking Wall
+LASERGUY
+
+Config:Biped
+TechBase:Mixed (Clan Chassis)
+Era:3070
+Rules Level:4
+
+Mass:100
+Engine:300 XL Fusion Engine (Clan)
+Structure:Standard
+Gyro:Compact Gyro
+Cockpit:Small Cockpit
+Myomer:Standard
+
+Heat Sinks:29 Double (Clan)
+Walk MP:3
+Jump MP:0
+
+Armor:Standard Armor (Clan)
+LA Armor:34
+RA Armor:34
+LT Armor:25
+RT Armor:25
+CT Armor:40
+HD Armor:6
+LL Armor:42
+RL Armor:42
+RTL Armor:17
+RTR Armor:17
+RTC Armor:22
+
+Weapons:5
+1 CLERPPC, Right Torso
+1 CLERPPC, Left Arm
+1 CLERPPC, Right Arm
+1 CLERPPC, Left Arm
+1 CLERPPC, Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+CLERPPC
+CLERPPC
+CLERPPC
+CLERPPC
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+CLERPPC
+CLERPPC
+CLERPPC
+CLERPPC
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+
+Left Torso:
+Engine
+Engine
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+
+Right Torso:
+Engine
+Engine
+CLERPPC
+CLERPPC
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Engine
+Engine
+Engine
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+
+Head:
+Life Support
+Sensors
+Cockpit
+Sensors
+CLDouble Heat Sink
+CLDouble Heat Sink
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDouble Heat Sink
+CLDouble Heat Sink
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDouble Heat Sink
+CLDouble Heat Sink

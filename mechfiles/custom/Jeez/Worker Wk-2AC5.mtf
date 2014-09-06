@@ -1,0 +1,129 @@
+Version:1.1
+Worker
+Wk-2AC5
+
+Config:Biped
+TechBase:Inner Sphere
+Era:2750
+Rules Level:3
+
+Mass:40
+Engine:120 Fuel-Cell Engine
+Structure:Industrial
+Cockpit:Industrial Cockpit (AFC)
+Myomer:Standard
+
+Heat Sinks:2 Single
+Walk MP:3
+Jump MP:0
+
+Armor:Commercial
+LA Armor:6
+RA Armor:6
+LT Armor:9
+RT Armor:9
+CT Armor:10
+HD Armor:9
+LL Armor:8
+RL Armor:8
+RTL Armor:2
+RTR Armor:2
+RTC Armor:3
+
+Weapons:2
+1 ISLBXAC5, Right Arm, Ammo:40
+1 ISLBXAC5, Left Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISLBXAC5
+ISLBXAC5
+ISLBXAC5
+ISLBXAC5
+ISLBXAC5
+ISLBXAC5 CL Ammo
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISLBXAC5
+ISLBXAC5
+ISLBXAC5
+ISLBXAC5
+ISLBXAC5
+ISLBXAC5 Ammo
+-Empty-
+-Empty-
+
+Left Torso:
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+-Empty-
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-

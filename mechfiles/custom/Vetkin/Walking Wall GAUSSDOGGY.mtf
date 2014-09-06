@@ -1,0 +1,121 @@
+Version:1.1
+Walking Wall
+GAUSSDOGGY
+
+Config:Quad
+TechBase:Mixed (Clan Chassis)
+Era:3070
+Rules Level:4
+
+Mass:100
+Engine:300 XL Fusion Engine (Clan)
+Structure:Standard
+Gyro:Compact Gyro
+Cockpit:Small Cockpit
+Myomer:Standard
+
+Heat Sinks:18 Single
+Walk MP:3
+Jump MP:0
+
+Armor:Standard Armor (Clan)
+LA Armor:34
+RA Armor:34
+LT Armor:25
+RT Armor:25
+CT Armor:40
+HD Armor:9
+LL Armor:42
+RL Armor:42
+RTL Armor:17
+RTR Armor:17
+RTC Armor:22
+
+Weapons:5
+1 CLHAG40, Right Torso, Ammo:12
+1 CLHAG40, Left Torso
+1 CLHeavyMG, Right Arm, Ammo:100
+1 CLHeavyMG, Left Arm
+1 CLHeavyMG, Left Arm
+
+Left Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLHeavyMG
+CLHeavyMG
+
+Right Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLHeavyMG
+Heat Sink
+
+Left Torso:
+Engine
+Engine
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+
+Right Torso:
+Engine
+Engine
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Engine
+Engine
+Engine
+CLHAG40 Ammo
+CLHAG40 Ammo
+CLHeavyMG Ammo (100)
+Heat Sink
+
+Head:
+Life Support
+Sensors
+Cockpit
+Sensors
+CLHAG40 Ammo
+CLHAG40 Ammo
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heat Sink
+Heat Sink
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heat Sink
+Heat Sink

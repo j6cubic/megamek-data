@@ -1,0 +1,132 @@
+Version:1.1
+Zeno
+Z-A
+
+Config:Biped
+TechBase:Clan
+Era:3070
+Rules Level:2
+
+Mass:100
+Engine:300 Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:17 Double
+Walk MP:3
+Jump MP:0
+
+Armor:Ferro-Fibrous
+LA Armor:33
+RA Armor:33
+LT Armor:31
+RT Armor:31
+CT Armor:48
+HD Armor:9
+LL Armor:42
+RL Armor:42
+RTL Armor:11
+RTR Armor:11
+RTC Armor:13
+
+Weapons:6
+1 CLATM12, Left Arm, Ammo:60
+1 CLATM12, Left Arm
+1 CLATM12, Right Arm
+1 CLATM12, Right Arm
+1 CLActiveProbe, Left Torso
+1 CLECMSuite, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+CLATM12
+CLATM12
+CLATM12
+CLATM12
+CLATM12
+CLATM12
+CLATM12
+CLATM12
+CLATM12
+CLATM12
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+CLATM12
+CLATM12
+CLATM12
+CLATM12
+CLATM12
+CLATM12
+CLATM12
+CLATM12
+CLATM12
+CLATM12
+
+Left Torso:
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLActiveProbe
+CLATM12 HE Ammo
+CLATM12 HE Ammo
+CLATM12 HE Ammo
+CLATM12 Ammo
+CLATM12 Ammo
+CLATM12 Ammo
+Ferro-Fibrous
+
+Right Torso:
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLECMSuite
+CLATM12 HE Ammo
+CLATM12 HE Ammo
+CLATM12 HE Ammo
+CLATM12 ER Ammo
+CLATM12 ER Ammo
+CLATM12 ER Ammo
+Ferro-Fibrous
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+CLDouble Heat Sink
+CLDouble Heat Sink
+
+Head:
+Life Support
+Sensors
+Cockpit
+Ferro-Fibrous
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+Ferro-Fibrous
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+Ferro-Fibrous

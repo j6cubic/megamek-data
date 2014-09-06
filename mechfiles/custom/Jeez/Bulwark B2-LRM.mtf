@@ -1,0 +1,129 @@
+Version:1.1
+Bulwark
+B2-LRM
+
+Config:Biped
+TechBase:Inner Sphere
+Era:2780
+Rules Level:2
+
+Mass:100
+Engine:400 XL Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:4
+Jump MP:0
+
+Armor:Ferro-Fibrous
+LA Armor:31
+RA Armor:31
+LT Armor:31
+RT Armor:31
+CT Armor:49
+HD Armor:9
+LL Armor:40
+RL Armor:40
+RTL Armor:11
+RTR Armor:11
+RTC Armor:12
+
+Weapons:3
+1 ISLRM20, Right Arm, Ammo:36
+1 ISLRM20, Left Torso
+1 ISLRM20, Left Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISLRM20
+ISLRM20
+ISLRM20
+ISLRM20
+ISLRM20
+ISArtemisIV
+Ferro-Fibrous
+Ferro-Fibrous
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISLRM20
+ISLRM20
+ISLRM20
+ISLRM20
+ISLRM20
+ISArtemisIV
+Ferro-Fibrous
+Ferro-Fibrous
+
+Left Torso:
+Engine
+Engine
+Engine
+ISLRM20
+ISLRM20
+ISLRM20
+ISLRM20
+ISLRM20
+ISArtemisIV
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+
+Right Torso:
+Engine
+Engine
+Engine
+ISLRM20 Ammo Artemis-capable
+ISLRM20 Ammo Artemis-capable
+ISLRM20 Ammo Artemis-capable
+ISLRM20 Ammo Artemis-capable
+ISLRM20 Ammo Artemis-capable
+ISLRM20 Ammo Artemis-capable
+Ferro-Fibrous
+Ferro-Fibrous
+ISCASE
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Ferro-Fibrous
+Ferro-Fibrous
+
+Head:
+Life Support
+Sensors
+Cockpit
+Ferro-Fibrous
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+Ferro-Fibrous
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+Ferro-Fibrous

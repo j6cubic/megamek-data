@@ -1,0 +1,93 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Hoverspy
+</Name>
+
+<Model>
+ER PPC
+</Model>
+
+<year>
+3145
+</year>
+
+<type>
+Mixed (Clan Chassis) Experimental
+</type>
+
+<motion_type>
+Hover
+</motion_type>
+
+<cruiseMP>
+7
+</cruiseMP>
+
+<engine_type>
+3
+</engine_type>
+
+<armor_type>
+6
+</armor_type>
+
+<armor_tech>
+8
+</armor_tech>
+
+<armor>
+88
+44
+43
+43
+43
+43
+43
+</armor>
+
+<Body Equipment>
+CLArmoredMotiveSystem
+ISC3iUnit
+CLTargeting Computer
+CLECMSuite
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Front Right Equipment>
+</Front Right Equipment>
+
+<Front Left Equipment>
+</Front Left Equipment>
+
+<Rear Right Equipment>
+</Rear Right Equipment>
+
+<Rear Left Equipment>
+</Rear Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+CLERPPC
+</Turret Equipment>
+
+<tonnage>
+100.0
+</tonnage>
+

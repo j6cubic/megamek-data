@@ -1,0 +1,133 @@
+Version:1.1
+Krank
+TB
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Rules Level:3
+
+Mass:100
+Engine:300 XL Engine
+Structure:Standard
+Gyro:Compact Gyro
+Myomer:Standard
+
+Heat Sinks:14 Double
+Walk MP:3
+Jump MP:0
+
+Armor:Ferro-Fibrous
+LA Armor:30
+RA Armor:30
+LT Armor:31
+RT Armor:31
+CT Armor:45
+HD Armor:9
+LL Armor:38
+RL Armor:38
+RTL Armor:11
+RTR Armor:11
+RTC Armor:12
+
+Weapons:6
+1 ISThunderbolt20, Right Torso, Ammo:15
+1 ISThunderbolt20, Left Torso
+1 ISThunderbolt20, Left Arm
+1 ISERMediumLaser, Right Arm
+1 ISERMediumLaser, Right Arm
+1 ISERMediumLaser, Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISThunderbolt20
+ISThunderbolt20
+ISThunderbolt20
+ISThunderbolt20
+ISThunderbolt20
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISERMediumLaser
+ISERMediumLaser
+ISERMediumLaser
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+
+Left Torso:
+Engine
+Engine
+Engine
+ISThunderbolt20
+ISThunderbolt20
+ISThunderbolt20
+ISThunderbolt20
+ISThunderbolt20
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+Ferro-Fibrous
+
+Right Torso:
+Engine
+Engine
+Engine
+ISThunderbolt20
+ISThunderbolt20
+ISThunderbolt20
+ISThunderbolt20
+ISThunderbolt20
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+Ferro-Fibrous
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISThunderbolt20 Ammo
+ISThunderbolt20 Ammo
+ISThunderbolt20 Ammo
+ISThunderbolt20 Ammo
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISThunderbolt20 Ammo
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+Ferro-Fibrous
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+Ferro-Fibrous

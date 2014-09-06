@@ -1,0 +1,123 @@
+Version:1.1
+Bulwark
+B4-PPC
+
+Config:Quad
+TechBase:Inner Sphere
+Era:2780
+Rules Level:2
+
+Mass:90
+Engine:360 XL Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:17 Double
+Walk MP:4
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:38
+RA Armor:38
+LT Armor:29
+RT Armor:29
+CT Armor:44
+HD Armor:9
+LL Armor:38
+RL Armor:38
+RTL Armor:9
+RTR Armor:9
+RTC Armor:14
+
+Weapons:9
+1 ISERPPC, Left Torso
+1 ISERPPC, Right Torso
+1 ISGuardianECM, Right Torso
+1 ISBeagleActiveProbe, Center Torso
+1 ISAntiMissileSystem, Head
+1 ISMachine Gun, Right Arm, Ammo:800
+1 ISMachine Gun, Left Arm
+1 ISMachine Gun (R), Left Leg (R)
+1 ISMachine Gun (R), Right Leg (R)
+
+Left Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ISMachine Gun
+ISMG Ammo (200)
+
+Right Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ISMachine Gun
+ISMG Ammo (200)
+
+Left Torso:
+Engine
+Engine
+Engine
+ISERPPC
+ISERPPC
+ISERPPC
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+
+Right Torso:
+Engine
+Engine
+Engine
+ISERPPC
+ISERPPC
+ISERPPC
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISGuardianECM
+ISGuardianECM
+IS AMS Ammo
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISBeagleActiveProbe
+ISBeagleActiveProbe
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISAntiMissileSystem
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ISMachine Gun (R)
+ISMG Ammo (200)
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ISMachine Gun (R)
+ISMG Ammo (200)

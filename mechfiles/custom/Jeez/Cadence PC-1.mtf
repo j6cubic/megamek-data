@@ -1,0 +1,119 @@
+Version:1.1
+Cadence
+PC-1
+
+Config:Quad
+TechBase:Inner Sphere
+Era:2750
+Rules Level:3
+
+Mass:75
+Engine:300 Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:11 Double
+Walk MP:4
+Jump MP:4
+
+Armor:Light Ferro-Fibrous
+LA Armor:13
+RA Armor:13
+LT Armor:18
+RT Armor:18
+CT Armor:21
+HD Armor:9
+LL Armor:18
+RL Armor:18
+RTL Armor:5
+RTR Armor:5
+RTC Armor:6
+
+Weapons:5
+1 ISRotaryAC5, Right Torso, Ammo:120
+1 ISRotaryAC5, Left Torso
+1 ISMediumLaser, Right Torso
+1 ISMediumLaser, Left Torso
+1 ISMediumLaser, Head
+
+Left Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Light Ferro-Fibrous
+
+Right Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Light Ferro-Fibrous
+
+Left Torso:
+ISRotaryAC5
+ISRotaryAC5
+ISRotaryAC5
+ISRotaryAC5
+ISRotaryAC5
+ISRotaryAC5
+ISMediumLaser
+IS Rotary AC/5 Ammo
+IS Rotary AC/5 Ammo
+IS Rotary AC/5 Ammo
+-Empty-
+Light Ferro-Fibrous
+
+Right Torso:
+ISRotaryAC5
+ISRotaryAC5
+ISRotaryAC5
+ISRotaryAC5
+ISRotaryAC5
+ISRotaryAC5
+ISMediumLaser
+IS Rotary AC/5 Ammo
+IS Rotary AC/5 Ammo
+IS Rotary AC/5 Ammo
+-Empty-
+Light Ferro-Fibrous
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+-Empty-
+Light Ferro-Fibrous
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISMediumLaser
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Light Ferro-Fibrous
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Light Ferro-Fibrous

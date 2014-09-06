@@ -1,0 +1,140 @@
+Version:1.1
+Wesley
+WS-2
+
+Config:Biped
+TechBase:Mixed (Clan Chassis)
+Era:0
+Rules Level:4
+
+Mass:100
+Engine:300 Fusion Engine (Clan)
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:10 Double (Clan)
+Walk MP:3
+Jump MP:0
+
+Armor:Ferro-Fibrous (Clan)
+LA Armor:23
+RA Armor:23
+LT Armor:32
+RT Armor:32
+CT Armor:37
+HD Armor:9
+LL Armor:29
+RL Armor:29
+RTL Armor:8
+RTR Armor:8
+RTC Armor:10
+
+Weapons:14
+1 CLUltraAC2, Left Arm, Ammo:180
+1 CLUltraAC2, Left Arm
+1 CLUltraAC2, Left Arm
+1 CLUltraAC2, Left Arm
+1 CLUltraAC2, Left Arm
+1 CLUltraAC2, Right Arm
+1 CLUltraAC2, Right Arm
+1 CLUltraAC2, Right Arm
+1 CLUltraAC2, Right Arm
+1 CLUltraAC2, Right Arm
+1 ISMediumLaser, Right Torso
+1 ISMediumLaser, Left Torso
+1 ISSmallLaser, Right Torso
+1 ISSmallLaser, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+CLUltraAC2
+CLUltraAC2
+CLUltraAC2
+CLUltraAC2
+CLUltraAC2
+CLUltraAC2
+CLUltraAC2
+CLUltraAC2
+CLUltraAC2
+CLUltraAC2
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+CLUltraAC2
+CLUltraAC2
+CLUltraAC2
+CLUltraAC2
+CLUltraAC2
+CLUltraAC2
+CLUltraAC2
+CLUltraAC2
+CLUltraAC2
+CLUltraAC2
+
+Left Torso:
+ISMediumLaser
+ISSmallLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+Endo-Steel
+Endo-Steel
+Ferro-Fibrous
+Ferro-Fibrous
+
+Right Torso:
+ISMediumLaser
+ISSmallLaser
+CLUltraAC2 Ammo
+CLUltraAC2 Ammo
+CLUltraAC2 Ammo
+CLUltraAC2 Ammo
+-Empty-
+-Empty-
+Endo-Steel
+Endo-Steel
+Ferro-Fibrous
+CLCASEII
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Endo-Steel
+Ferro-Fibrous
+
+Head:
+Life Support
+Sensors
+Cockpit
+Ferro-Fibrous
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Ferro-Fibrous
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Ferro-Fibrous

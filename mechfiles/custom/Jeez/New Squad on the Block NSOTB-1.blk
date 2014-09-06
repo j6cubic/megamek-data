@@ -1,0 +1,61 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Infantry
+</UnitType>
+
+<Name>
+New Squad on the Block
+</Name>
+
+<Model>
+NSOTB-1
+</Model>
+
+<year>
+2750
+</year>
+
+<type>
+Clan Level 3
+</type>
+
+<motion_type>
+Jump
+</motion_type>
+
+<Field Guns Equipment>
+</Field Guns Equipment>
+
+<squad_size>
+10
+</squad_size>
+
+<squadn>
+3
+</squadn>
+
+<secondn>
+1
+</secondn>
+
+<Primary>
+Infantry Clan Mauser IIC
+</Primary>
+
+<Secondary>
+Infantry Clan Mauser IIC Inferno
+</Secondary>
+
+<armordivisor>
+2.0
+</armordivisor>
+

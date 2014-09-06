@@ -1,0 +1,122 @@
+Version:1.1
+Walking Wall
+ROCKETDOGGY
+
+Config:Quad
+TechBase:Mixed (Clan Chassis)
+Era:2750
+Rules Level:4
+
+Mass:100
+Engine:300 XL Fusion Engine (Clan)
+Structure:Standard
+Gyro:Compact Gyro
+Cockpit:Small Cockpit
+Myomer:Standard
+
+Heat Sinks:15 Double (Clan)
+Walk MP:3
+Jump MP:0
+
+Armor:Standard Armor (Clan)
+LA Armor:42
+RA Armor:42
+LT Armor:25
+RT Armor:25
+CT Armor:41
+HD Armor:9
+LL Armor:42
+RL Armor:42
+RTL Armor:15
+RTR Armor:15
+RTC Armor:21
+
+Weapons:6
+1 ISThunderbolt20, Right Torso, Ammo:9
+1 ISThunderbolt20, Left Torso
+1 CLSRM6, Left Arm, Ammo:15
+1 CLSRM6, Right Arm
+1 CLLRM20, Right Torso, Ammo:12
+1 CLLRM20, Left Torso
+
+Left Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLSRM6
+CLSRM6 Ammo
+
+Right Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLSRM6
+ISThunderbolt20 Ammo
+
+Left Torso:
+Engine
+Engine
+ISThunderbolt20
+ISThunderbolt20
+ISThunderbolt20
+ISThunderbolt20
+ISThunderbolt20
+CLLRM20
+CLLRM20
+CLLRM20
+CLLRM20
+-Empty-
+
+Right Torso:
+Engine
+Engine
+ISThunderbolt20
+ISThunderbolt20
+ISThunderbolt20
+ISThunderbolt20
+ISThunderbolt20
+CLLRM20
+CLLRM20
+CLLRM20
+CLLRM20
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISThunderbolt20 Ammo
+ISThunderbolt20 Ammo
+CLDouble Heat Sink
+CLDouble Heat Sink
+
+Head:
+Life Support
+Sensors
+Cockpit
+Sensors
+CLLRM20 Ammo
+CLLRM20 Ammo
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDouble Heat Sink
+CLDouble Heat Sink
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDouble Heat Sink
+CLDouble Heat Sink

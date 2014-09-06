@@ -1,0 +1,119 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Ultra Maginot
+</Name>
+
+<Model>
+Umg-A
+</Model>
+
+<year>
+2750
+</year>
+
+<type>
+Mixed (Clan Chassis)
+</type>
+
+<tonnage>
+200.0
+</tonnage>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<engine_type>
+0
+</engine_type>
+
+<cruiseMP>
+0
+</cruiseMP>
+
+<armor_type>
+6
+</armor_type>
+
+<armor_tech>
+8
+</armor_tech>
+
+<armor>
+186
+93
+93
+92
+92
+92
+92
+</armor>
+
+<Body Equipment>
+ISC3iUnit
+CLTargeting Computer
+Armored Chassis
+HAG/30 Ammo
+HAG/30 Ammo
+HAG/30 Ammo
+HAG/30 Ammo
+HAG/30 Ammo
+HAG/30 Ammo
+HAG/30 Ammo
+HAG/30 Ammo
+HAG/30 Ammo
+HAG/30 Ammo
+HAG/30 Ammo
+HAG/30 Ammo
+HAG/30 Ammo
+HAG/30 Ammo
+HAG/30 Ammo
+HAG/30 Ammo
+HAG/30 Ammo
+HAG/30 Ammo
+HAG/30 Ammo
+HAG/30 Ammo
+HAG/30 Ammo
+HAG/30 Ammo
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Front Right Equipment>
+</Front Right Equipment>
+
+<Front Left Equipment>
+</Front Left Equipment>
+
+<Rear Right Equipment>
+</Rear Right Equipment>
+
+<Rear Left Equipment>
+</Rear Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+CLCASEII
+CLHAG30
+CLHAG30
+CLHAG30
+CLHAG30
+CLHAG30
+</Turret Equipment>
+

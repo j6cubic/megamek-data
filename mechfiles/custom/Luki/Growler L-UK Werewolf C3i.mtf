@@ -1,0 +1,131 @@
+Version:1.1
+Growler
+L-UK Werewolf C3i
+
+Config:Biped
+TechBase:Mixed (Clan Chassis)
+Era:3058
+Rules Level:4
+
+Mass:35
+Engine:315 XXL Fusion Engine (Clan)
+Structure:Endo-Steel
+Myomer:Triple Strength Myomer
+
+Heat Sinks:10 Double (Clan)
+Walk MP:9
+Jump MP:0
+
+Armor:Heavy Ferro-Fibrous (Inner Sphere)
+LA Armor:12
+RA Armor:12
+LT Armor:12
+RT Armor:12
+CT Armor:17
+HD Armor:9
+LL Armor:16
+RL Armor:16
+RTL Armor:4
+RTR Armor:4
+RTC Armor:5
+
+Weapons:5
+1 Talons, Left Leg
+1 ISImprovedC3CPU, Center Torso
+1 CLMediumPulseLaser, Left Arm
+1 CLMediumPulseLaser, Right Arm
+1 CLMediumPulseLaser, Head
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+CLMediumPulseLaser
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+CLMediumPulseLaser
+Endo-Steel
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+
+Left Torso:
+Engine
+Engine
+Engine
+Engine
+Triple Strength Myomer
+Triple Strength Myomer
+Triple Strength Myomer
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+
+Right Torso:
+Engine
+Engine
+Engine
+Engine
+Triple Strength Myomer
+Triple Strength Myomer
+Triple Strength Myomer
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISImprovedC3CPU
+ISImprovedC3CPU
+
+Head:
+Life Support
+Sensors
+Cockpit
+CLMediumPulseLaser
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Talons
+Talons
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Talons
+Talons

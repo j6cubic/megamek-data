@@ -1,0 +1,132 @@
+Version:1.1
+Immaculate Tom
+Earth
+
+Config:Biped
+TechBase:Mixed (Clan Chassis)
+Era:0
+Rules Level:4
+
+Mass:100
+Engine:200 XL Fusion Engine (Clan)
+Structure:Endo-Steel
+Gyro:Compact Gyro
+Myomer:Standard
+
+Heat Sinks:12 Double (Clan)
+Walk MP:2
+Jump MP:0
+
+Armor:Hardened (Clan)
+LA Armor:34
+RA Armor:34
+LT Armor:32
+RT Armor:32
+CT Armor:47
+HD Armor:9
+LL Armor:42
+RL Armor:42
+RTL Armor:10
+RTR Armor:10
+RTC Armor:15
+
+Weapons:5
+1 ISImprovedC3CPU, Right Torso
+1 ISImprovedHeavyGaussRifle, Center Torso, Ammo:20
+1 CLERPPC, Right Arm
+1 CLERMediumLaser, Right Arm
+1 CLERMediumLaser, Head
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLDouble Heat Sink
+CLDouble Heat Sink
+IS Improved Heavy Gauss Rifle Ammo
+IS Improved Heavy Gauss Rifle Ammo
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLERPPC
+CLERPPC
+CLERMediumLaser
+IS Improved Heavy Gauss Rifle Ammo
+IS Improved Heavy Gauss Rifle Ammo
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Left Torso:
+Engine
+Engine
+ISImprovedHeavyGaussRifle
+ISImprovedHeavyGaussRifle
+ISImprovedHeavyGaussRifle
+ISImprovedHeavyGaussRifle
+ISImprovedHeavyGaussRifle
+ISImprovedHeavyGaussRifle
+ISImprovedHeavyGaussRifle
+ISImprovedHeavyGaussRifle
+ISImprovedHeavyGaussRifle
+CLCASEII
+
+Right Torso:
+Engine
+Engine
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+ISImprovedC3CPU
+ISImprovedC3CPU
+CLDouble Heat Sink
+CLDouble Heat Sink
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISImprovedHeavyGaussRifle
+ISImprovedHeavyGaussRifle
+IS Improved Heavy Gauss Rifle Ammo
+CLCASEII
+
+Head:
+Life Support
+Sensors
+Cockpit
+CLERMediumLaser
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDouble Heat Sink
+CLDouble Heat Sink
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDouble Heat Sink
+CLDouble Heat Sink

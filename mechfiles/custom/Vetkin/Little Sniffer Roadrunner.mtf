@@ -1,0 +1,116 @@
+Version:1.1
+Little Sniffer
+Roadrunner
+
+Config:Quad
+TechBase:Mixed (Clan Chassis)
+Era:2750
+Rules Level:4
+
+Mass:35
+Engine:350 XXL Fusion Engine (Clan)
+Structure:Endo-Steel
+Gyro:Compact Gyro
+Myomer:CLMASC
+
+Heat Sinks:10 Double (Clan)
+Walk MP:10
+Jump MP:0
+
+Armor:Ferro-Fibrous (Clan)
+LA Armor:16
+RA Armor:16
+LT Armor:12
+RT Armor:12
+CT Armor:17
+HD Armor:9
+LL Armor:16
+RL Armor:16
+RTL Armor:4
+RTR Armor:4
+RTC Armor:5
+
+Weapons:1
+1 ISImprovedC3CPU (armored), Center Torso
+
+Left Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+ChameleonLightPolarizationField
+
+Right Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+ChameleonLightPolarizationField
+
+Left Torso:
+Engine
+Engine
+Engine
+Engine
+-Empty-
+-Empty-
+-Empty-
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Ferro-Fibrous
+ChameleonLightPolarizationField
+
+Right Torso:
+Engine
+Engine
+Engine
+Engine
+-Empty-
+Ferro-Fibrous
+-Empty-
+-Empty-
+Endo-Steel
+Endo-Steel
+Ferro-Fibrous
+ChameleonLightPolarizationField
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro (armored)
+Gyro (armored)
+Engine
+Engine
+Engine
+Endo-Steel
+CLMASC (armored)
+ISImprovedC3CPU (armored)
+ISImprovedC3CPU (armored)
+
+Head:
+Life Support
+Sensors
+Cockpit (armored)
+Endo-Steel
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+ChameleonLightPolarizationField
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+ChameleonLightPolarizationField

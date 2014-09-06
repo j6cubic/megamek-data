@@ -1,0 +1,88 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Stationary Artillery
+</Name>
+
+<Model>
+Sniper
+</Model>
+
+<year>
+2750
+</year>
+
+<type>
+Clan Level 4
+</type>
+
+<tonnage>
+35.0
+</tonnage>
+
+<motion_type>
+Wheeled
+</motion_type>
+
+<engine_type>
+8
+</engine_type>
+
+<cruiseMP>
+0
+</cruiseMP>
+
+<armor_type>
+6
+</armor_type>
+
+<armor_tech>
+8
+</armor_tech>
+
+<armor>
+6
+6
+6
+6
+5
+</armor>
+
+<Body Equipment>
+CLCASE
+CLSniperAmmo
+CLSniperAmmo
+CLSniperAmmo
+CLSniperAmmo
+CLSniperAmmo
+CLSniperAmmo
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+CLSniper
+</Turret Equipment>
+

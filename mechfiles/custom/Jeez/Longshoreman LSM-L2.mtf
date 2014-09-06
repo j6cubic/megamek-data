@@ -1,0 +1,140 @@
+Version:1.1
+Longshoreman
+LSM-L2
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3125
+Rules Level:2
+
+Mass:95
+Engine:380 XL Engine
+Structure:Standard
+Myomer:ISMASC
+
+Heat Sinks:21 Double
+Walk MP:4
+Jump MP:4
+
+Armor:Standard Armor
+LA Armor:32
+RA Armor:32
+LT Armor:30
+RT Armor:30
+CT Armor:45
+HD Armor:9
+LL Armor:40
+RL Armor:40
+RTL Armor:10
+RTR Armor:10
+RTC Armor:15
+
+Weapons:14
+1 ISMediumLaser, Right Arm
+1 ISMediumLaser, Left Arm
+1 ISMediumLaser, Left Arm
+1 ISMediumLaser, Right Torso
+1 ISMediumLaser, Left Arm
+1 ISMediumLaser, Right Arm
+1 ISMediumLaser, Center Torso
+1 ISMediumLaser, Right Torso
+1 ISMediumLaser, Left Arm
+1 ISMediumLaser, Center Torso
+1 ISMediumLaser, Left Torso
+1 ISMediumLaser, Right Torso
+1 ISMediumLaser, Head
+1 ISSmallLaser, Left Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISMediumLaser
+ISMediumLaser
+ISMediumLaser
+ISMediumLaser
+ISSmallLaser
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISMediumLaser
+ISMediumLaser
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+
+Left Torso:
+Engine
+Engine
+Engine
+ISMediumLaser
+ISMASC
+ISMASC
+ISMASC
+ISMASC
+ISMASC
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+
+Right Torso:
+Engine
+Engine
+Engine
+ISMediumLaser
+ISMediumLaser
+ISMediumLaser
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISMediumLaser
+ISMediumLaser
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISMediumLaser
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet

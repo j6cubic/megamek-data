@@ -1,0 +1,71 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+CWS
+</Name>
+
+<Model>
+CWS-1
+</Model>
+
+<year>
+2750
+</year>
+
+<type>
+Mixed (Clan Chassis)
+</type>
+
+<tonnage>
+50.0
+</tonnage>
+
+<motion_type>
+Hover
+</motion_type>
+
+<engine_type>
+0
+</engine_type>
+
+<cruiseMP>
+5
+</cruiseMP>
+
+<armor>
+80
+40
+40
+40
+</armor>
+
+<Body Equipment>
+Centurion Weapon System
+Centurion Weapon System
+Centurion Weapon System
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+

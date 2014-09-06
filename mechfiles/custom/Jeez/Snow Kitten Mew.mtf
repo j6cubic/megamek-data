@@ -1,0 +1,167 @@
+Version:1.1
+Snow Kitten
+Mew
+
+Config:Tripod
+TechBase:Mixed (Clan Chassis)
+Era:3145
+Rules Level:5
+
+Mass:60
+Engine:240 Fusion (Clan) Engine
+Structure:Clan Endo Steel
+Myomer:Standard
+Cockpit:Dual Cockpit
+Gyro:None
+
+Heat Sinks:17 Double
+Walk MP:4
+Jump MP:0
+
+Armor:Ferro-Fibrous(Clan)
+LA Armor:16
+RA Armor:16
+LT Armor:19
+RT Armor:19
+CT Armor:26
+HD Armor:9
+LL Armor:23
+RL Armor:23
+CL Armor:23
+RTL Armor:5
+RTR Armor:5
+RTC Armor:8
+
+Weapons:4
+TSEMP Cannon, Left Arm
+TSEMP Cannon, Right Arm
+Mech Taser, Left Arm
+Mech Taser, Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+TSEMP Cannon
+TSEMP Cannon
+TSEMP Cannon
+TSEMP Cannon
+TSEMP Cannon
+Mek Taser
+Mek Taser
+Mek Taser
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+TSEMP Cannon
+TSEMP Cannon
+TSEMP Cannon
+TSEMP Cannon
+TSEMP Cannon
+Mek Taser
+Mek Taser
+Mek Taser
+
+Left Torso:
+Taser Ammo
+Taser Ammo
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+Clan Ferro-Fibrous
+Clan Ferro-Fibrous
+
+Right Torso:
+Taser Ammo
+Taser Ammo
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+Clan Ferro-Fibrous
+Clan Ferro-Fibrous
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Clan Endo Steel
+Clan Endo Steel
+Clan Endo Steel
+Clan Endo Steel
+Clan Endo Steel
+Clan Endo Steel
+
+Head:
+Life Support
+Sensors
+Cockpit
+Cockpit
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Clan Ferro-Fibrous
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Clan Ferro-Fibrous
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Clan Ferro-Fibrous
+Clan Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

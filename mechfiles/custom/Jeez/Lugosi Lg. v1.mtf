@@ -1,0 +1,140 @@
+Version:1.1
+Lugosi
+Lg. v1
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Rules Level:4
+
+Mass:100
+Engine:300 Compact Fusion Engine
+Structure:Standard
+Gyro:Compact Gyro
+Myomer:Standard
+
+Heat Sinks:15 Double
+Walk MP:3
+Jump MP:0
+
+Armor:Heavy Ferro-Fibrous
+LA Armor:34
+RA Armor:34
+LT Armor:32
+RT Armor:32
+CT Armor:47
+HD Armor:9
+LL Armor:42
+RL Armor:42
+RTL Armor:10
+RTR Armor:10
+RTC Armor:15
+
+Weapons:13
+1 ISAntiMissileSystem, Left Torso
+1 ISAntiMissileSystem, Left Torso
+1 ISAntiMissileSystem, Right Torso
+1 ISAntiMissileSystem, Right Torso
+1 ISGuardianECM (armored), Center Torso
+1 ISMediumLaser (armored), Left Arm
+1 ISMediumLaser (armored), Left Arm
+1 ISMediumLaser (armored), Right Arm
+1 ISMediumLaser (armored), Right Arm
+1 ISMediumLaser (armored), Left Arm
+1 ISMediumLaser (armored), Left Arm
+1 ISMediumLaser (armored), Right Arm
+1 ISMediumLaser (armored), Right Arm
+
+Left Arm:
+Shoulder (armored)
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISMediumLaser (armored)
+ISMediumLaser (armored)
+ISMediumLaser (armored)
+ISMediumLaser (armored)
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+
+Right Arm:
+Shoulder (armored)
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISMediumLaser (armored)
+ISMediumLaser (armored)
+ISMediumLaser (armored)
+ISMediumLaser (armored)
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+
+Left Torso:
+ISAntiMissileSystem
+ISAntiMissileSystem
+ISDouble Heat Sink (armored)
+ISDouble Heat Sink (armored)
+ISDouble Heat Sink (armored)
+-Empty-
+-Empty-
+-Empty-
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+
+Right Torso:
+ISAntiMissileSystem
+ISAntiMissileSystem
+IS AMS Ammo
+IS AMS Ammo
+IS AMS Ammo
+IS AMS Ammo
+ISDouble Heat Sink (armored)
+ISDouble Heat Sink (armored)
+ISDouble Heat Sink (armored)
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+ISCASEII
+
+Center Torso:
+Engine (armored)
+Engine (armored)
+Engine (armored)
+Gyro (armored)
+Gyro (armored)
+ISGuardianECM (armored)
+ISGuardianECM (armored)
+ISDouble Heat Sink (armored)
+ISDouble Heat Sink (armored)
+ISDouble Heat Sink (armored)
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+
+Head:
+Life Support (armored)
+Sensors (armored)
+Cockpit (armored)
+Heavy Ferro-Fibrous
+Sensors (armored)
+Life Support (armored)
+
+Left Leg:
+Hip (armored)
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+
+Right Leg:
+Hip (armored)
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous

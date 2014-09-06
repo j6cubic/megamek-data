@@ -1,0 +1,74 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Bomberturret
+</Name>
+
+<Model>
+A4X5
+</Model>
+
+<year>
+2750
+</year>
+
+<type>
+Mixed (Clan Chassis)
+</type>
+
+<tonnage>
+20.0
+</tonnage>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<engine_type>
+8
+</engine_type>
+
+<cruiseMP>
+0
+</cruiseMP>
+
+<armor>
+0
+0
+0
+0
+</armor>
+
+<Body Equipment>
+CLArrowIV
+CLArrowIVAmmo
+CLArrowIVAmmo
+CLArrowIVAmmo
+CLArrowIVAmmo
+CLArrowIVFASCAMAmmo
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+

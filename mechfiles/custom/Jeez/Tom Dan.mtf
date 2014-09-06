@@ -1,0 +1,124 @@
+Version:1.1
+Tom
+Dan
+
+Config:Quad
+TechBase:Mixed (Clan Chassis)
+Era:2750
+Rules Level:4
+
+Mass:100
+Engine:300 Compact Fusion Engine (Inner Sphere)
+Structure:Endo-Steel
+Gyro:Compact Gyro
+Myomer:Standard
+
+Heat Sinks:21 Double (Clan)
+Walk MP:3
+Jump MP:0
+
+Armor:Hardened (Clan)
+LA Armor:37
+RA Armor:37
+LT Armor:31
+RT Armor:31
+CT Armor:48
+HD Armor:9
+LL Armor:42
+RL Armor:42
+RTL Armor:11
+RTR Armor:11
+RTC Armor:13
+
+Weapons:9
+1 CLERMediumLaser, Right Torso
+1 CLERMediumLaser, Left Torso
+1 CLERMediumLaser, Left Torso
+1 CLERMediumLaser, Right Torso
+1 CLERMediumLaser, Left Torso
+1 CLERMediumLaser, Right Torso
+1 CL, Center Torso
+1 CL, Left Torso
+1 CL, Right Torso
+
+Left Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+-Empty-
+
+Right Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+-Empty-
+
+Left Torso:
+CLERMediumLaser
+CLERMediumLaser
+CLERMediumLaser
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CL
+
+Right Torso:
+CLERMediumLaser
+CLERMediumLaser
+CLERMediumLaser
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+Endo-Steel
+Endo-Steel
+CL
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+CLDouble Heat Sink
+CLDouble Heat Sink
+Endo-Steel
+Endo-Steel
+CLDouble Heat Sink
+CLDouble Heat Sink
+CL
+
+Head:
+Life Support
+Sensors
+Cockpit
+Endo-Steel
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-

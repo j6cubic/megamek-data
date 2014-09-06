@@ -1,0 +1,131 @@
+Version:1.1
+Walking Missile Platform
+WMP-M40
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Rules Level:2
+
+Mass:100
+Engine:200 Compact Fusion Engine
+Structure:Standard
+Gyro:Compact Gyro
+Myomer:Standard
+
+Heat Sinks:16 Double
+Walk MP:2
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:30
+RA Armor:30
+LT Armor:31
+RT Armor:31
+CT Armor:45
+HD Armor:9
+LL Armor:39
+RL Armor:39
+RTL Armor:11
+RTR Armor:11
+RTC Armor:12
+
+Weapons:4
+1 ISC3MasterComputer, Left Torso
+1 ISMRM40, Left Arm, Ammo:36
+1 ISMRM40, Right Arm
+1 ISMRM40, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+ISMRM40
+ISMRM40
+ISMRM40
+ISMRM40
+ISMRM40
+ISMRM40
+ISMRM40
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+ISMRM40
+ISMRM40
+ISMRM40
+ISMRM40
+ISMRM40
+ISMRM40
+ISMRM40
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+
+Left Torso:
+ISMRM40
+ISMRM40
+ISMRM40
+ISMRM40
+ISMRM40
+ISMRM40
+ISMRM40
+ISC3MasterComputer
+ISC3MasterComputer
+ISC3MasterComputer
+ISC3MasterComputer
+ISC3MasterComputer
+
+Right Torso:
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISMRM40 Ammo
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISMRM40 Ammo
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ISMRM40 Ammo
+ISMRM40 Ammo
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ISMRM40 Ammo
+ISMRM40 Ammo

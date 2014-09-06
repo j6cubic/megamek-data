@@ -1,0 +1,82 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Standing Stone
+</Name>
+
+<Model>
+Boulder
+</Model>
+
+<year>
+2750
+</year>
+
+<type>
+Mixed (Clan Chassis)
+</type>
+
+<tonnage>
+100.0
+</tonnage>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<engine_type>
+3
+</engine_type>
+
+<cruiseMP>
+0
+</cruiseMP>
+
+<armor_type>
+4
+</armor_type>
+
+<armor_tech>
+8
+</armor_tech>
+
+<armor>
+97
+97
+97
+97
+</armor>
+
+<Body Equipment>
+Armored Chassis
+CLAngelECMSuite
+ISC3iUnit
+Environmental Sealing
+ClanFullyAmphibiousChassis
+Vacuum Protection
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+

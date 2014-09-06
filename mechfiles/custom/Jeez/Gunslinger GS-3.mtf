@@ -1,0 +1,128 @@
+Version:1.1
+Gunslinger
+GS-3
+
+Config:Biped
+TechBase:Clan
+Era:3070
+Rules Level:3
+
+Mass:85
+Engine:340 Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:4
+Jump MP:2
+
+Armor:Ferro-Fibrous
+LA Armor:28
+RA Armor:28
+LT Armor:27
+RT Armor:27
+CT Armor:41
+HD Armor:9
+LL Armor:36
+RL Armor:36
+RTL Armor:9
+RTR Armor:9
+RTC Armor:13
+
+Weapons:2
+1 CLLBXAC10, Right Arm, Ammo:60
+1 CLLBXAC10, Left Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLLBXAC10
+CLLBXAC10
+CLLBXAC10
+CLLBXAC10
+CLLBXAC10
+Ferro-Fibrous
+Ferro-Fibrous
+Endo-Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLLBXAC10
+CLLBXAC10
+CLLBXAC10
+CLLBXAC10
+CLLBXAC10
+-Empty-
+Ferro-Fibrous
+Endo-Steel
+
+Left Torso:
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+CLLBXAC10 CL Ammo
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+Ferro-Fibrous
+Endo-Steel
+
+Right Torso:
+CLLBXAC10 CL Ammo
+CLLBXAC10 CL Ammo
+CLLBXAC10 Ammo
+CLLBXAC10 Ammo
+CLLBXAC10 Ammo
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+Ferro-Fibrous
+Endo-Steel
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Ferro-Fibrous
+Endo-Steel
+
+Head:
+Life Support
+Sensors
+Cockpit
+Ferro-Fibrous
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Endo-Steel

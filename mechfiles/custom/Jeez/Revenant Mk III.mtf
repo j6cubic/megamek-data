@@ -1,0 +1,136 @@
+Version:1.1
+Revenant
+Mk III
+
+Config:Biped
+TechBase:Clan
+Era:3070
+Rules Level:4
+
+Mass:100
+Engine:300 Fusion Engine
+Structure:Reinforced
+Myomer:Standard
+
+Heat Sinks:17 Double
+Walk MP:3
+Jump MP:0
+
+Armor:Ferro-Fibrous
+LA Armor:34
+RA Armor:34
+LT Armor:32
+RT Armor:32
+CT Armor:47
+HD Armor:9
+LL Armor:42
+RL Armor:42
+RTL Armor:10
+RTR Armor:10
+RTC Armor:15
+
+Weapons:10
+1 CLLaserAntiMissileSystem (armored), Right Torso
+1 CLLaserAntiMissileSystem (armored), Left Torso
+1 CLAngelECM (armored), Center Torso
+1 CLHeavyMediumLaser (armored), Left Torso
+1 CLHeavyMediumLaser (armored), Left Torso
+1 CLERSmallLaser (armored), Head
+1 CLERMediumLaser (armored), Left Torso
+1 CLHeavyMediumLaser (armored), Right Torso
+1 CLERMicroLaser, Right Arm
+1 CLERMicroLaser, Left Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLERMicroLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLERMicroLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+CLLaserAntiMissileSystem (armored)
+CLDouble Heat Sink (armored)
+CLDouble Heat Sink (armored)
+CLDouble Heat Sink (armored)
+CLDouble Heat Sink (armored)
+CLHeavyMediumLaser (armored)
+CLHeavyMediumLaser (armored)
+CLHeavyMediumLaser (armored)
+CLHeavyMediumLaser (armored)
+CLERMediumLaser (armored)
+Ferro-Fibrous
+Ferro-Fibrous
+
+Right Torso:
+CLLaserAntiMissileSystem (armored)
+CLDouble Heat Sink (armored)
+CLDouble Heat Sink (armored)
+CLDouble Heat Sink (armored)
+CLDouble Heat Sink (armored)
+CLDouble Heat Sink (armored)
+CLDouble Heat Sink (armored)
+CLHeavyMediumLaser (armored)
+CLHeavyMediumLaser (armored)
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+
+Center Torso:
+Engine (armored)
+Engine (armored)
+Engine (armored)
+Gyro (armored)
+Gyro (armored)
+Gyro (armored)
+Gyro (armored)
+Engine (armored)
+Engine (armored)
+Engine (armored)
+CLAngelECM (armored)
+CLAngelECM (armored)
+
+Head:
+Life Support (armored)
+Sensors (armored)
+Cockpit (armored)
+CLERSmallLaser (armored)
+Sensors (armored)
+Life Support (armored)
+
+Left Leg:
+Hip (armored)
+Upper Leg Actuator (armored)
+Lower Leg Actuator (armored)
+Foot Actuator (armored)
+Ferro-Fibrous
+-Empty-
+
+Right Leg:
+Hip (armored)
+Upper Leg Actuator (armored)
+Lower Leg Actuator (armored)
+Foot Actuator (armored)
+Ferro-Fibrous
+-Empty-

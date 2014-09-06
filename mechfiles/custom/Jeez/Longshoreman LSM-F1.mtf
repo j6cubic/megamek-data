@@ -1,0 +1,137 @@
+Version:1.1
+Longshoreman
+LSM-F1
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3125
+Rules Level:2
+
+Mass:100
+Engine:400 XL Engine
+Structure:Standard
+Myomer:ISMASC
+
+Heat Sinks:17 Double
+Walk MP:4
+Jump MP:4
+
+Armor:Ferro-Fibrous
+LA Armor:34
+RA Armor:34
+LT Armor:32
+RT Armor:32
+CT Armor:47
+HD Armor:9
+LL Armor:42
+RL Armor:42
+RTL Armor:10
+RTR Armor:10
+RTC Armor:15
+
+Weapons:11
+1 ISFlamer, Right Torso
+1 ISFlamer, Left Torso
+1 ISFlamer, Left Arm
+1 ISFlamer, Right Arm
+1 ISFlamer, Left Arm
+1 ISFlamer, Right Arm
+1 ISFlamer, Left Torso
+1 ISFlamer, Right Torso
+1 ISFlamer, Left Arm
+1 ISFlamer, Right Arm
+1 ISFlamer, Head
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISFlamer
+ISFlamer
+ISFlamer
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISFlamer
+ISFlamer
+ISFlamer
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+
+Left Torso:
+Engine
+Engine
+Engine
+ISFlamer
+ISFlamer
+ISMASC
+ISMASC
+ISMASC
+ISMASC
+ISMASC
+ISImprovedJump Jet
+ISImprovedJump Jet
+
+Right Torso:
+Engine
+Engine
+Engine
+ISFlamer
+ISFlamer
+Ferro-Fibrous
+Ferro-Fibrous
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISImprovedJump Jet
+ISImprovedJump Jet
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Ferro-Fibrous
+Ferro-Fibrous
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISFlamer
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ISImprovedJump Jet
+ISImprovedJump Jet
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ISImprovedJump Jet
+ISImprovedJump Jet

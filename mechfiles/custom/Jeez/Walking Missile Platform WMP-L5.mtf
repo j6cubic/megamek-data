@@ -1,0 +1,147 @@
+Version:1.1
+Walking Missile Platform
+WMP-L5
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Rules Level:2
+
+Mass:100
+Engine:200 Compact Fusion Engine
+Structure:Standard
+Gyro:Compact Gyro
+Cockpit:Small Cockpit
+Myomer:Standard
+
+Heat Sinks:17 Double
+Walk MP:2
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:28
+RA Armor:28
+LT Armor:31
+RT Armor:31
+CT Armor:42
+HD Armor:9
+LL Armor:35
+RL Armor:35
+RTL Armor:11
+RTR Armor:11
+RTC Armor:11
+
+Weapons:19
+1 ISLRM5, Left Leg, Ammo:168
+1 ISLRM5, Head
+1 ISLRM5, Left Leg
+1 ISLRM5, Left Arm
+1 ISLRM5, Head
+1 ISLRM5, Left Arm
+1 ISLRM5, Left Arm
+1 ISLRM5, Right Leg
+1 ISLRM5, Center Torso
+1 ISLRM5, Right Leg
+1 ISLRM5, Right Arm
+1 ISLRM5, Right Arm
+1 ISLRM5, Right Arm
+1 ISLRM5, Right Arm
+1 ISLRM5, Left Arm
+1 ISLRM5, Right Arm
+1 ISLRM5, Right Arm
+1 ISLRM5, Right Arm
+1 ISC3MasterComputer, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+ISLRM5
+ISLRM5
+ISLRM5
+ISLRM5
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+ISLRM5
+ISLRM5
+ISLRM5
+ISLRM5
+ISLRM5
+ISLRM5
+ISLRM5
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+
+Left Torso:
+ISC3MasterComputer
+ISC3MasterComputer
+ISC3MasterComputer
+ISC3MasterComputer
+ISC3MasterComputer
+ISLRM5 Ammo
+ISLRM5 Ammo
+ISLRM5 Ammo
+ISLRM5 Ammo
+ISLRM5 Ammo
+ISLRM5 Ammo
+ISLRM5 Ammo
+
+Right Torso:
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISLRM5
+
+Head:
+Life Support
+Sensors
+Cockpit
+Sensors
+ISLRM5
+ISLRM5
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ISLRM5
+ISLRM5
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ISLRM5
+ISLRM5

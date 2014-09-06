@@ -1,0 +1,125 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Dark Age
+</Name>
+
+<Model>
+
+</Model>
+
+<year>
+3145
+</year>
+
+<type>
+Mixed (Clan Chassis) Experimental
+</type>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<cruiseMP>
+2
+</cruiseMP>
+
+<engine_type>
+3
+</engine_type>
+
+<armor_type>
+1
+</armor_type>
+
+<armor_tech>
+8
+</armor_tech>
+
+<armor>
+166
+82
+82
+82
+82
+82
+82
+82
+</armor>
+
+<Body Equipment>
+Clan Ammo ATM-12
+Clan Ammo ATM-12
+Clan Ammo ATM-12
+Clan Ammo ATM-12
+Clan Ammo ATM-12
+Clan Ammo ATM-12
+Clan Ammo ATM-12
+Clan Ammo ATM-12
+Clan Ammo ATM-12
+CLCASEII
+CLLaserAntiMissileSystem
+CLAngelECMSuite
+Clan Ammo ATM-12 ER
+Clan Ammo ATM-12 ER
+Clan Ammo ATM-12 ER
+Clan Ammo ATM-12 HE
+Clan Ammo ATM-12 HE
+Clan Ammo ATM-12 HE
+</Body Equipment>
+
+<Front Equipment>
+CLModularArmor
+</Front Equipment>
+
+<Front Right Equipment>
+CLModularArmor
+</Front Right Equipment>
+
+<Front Left Equipment>
+CLModularArmor
+</Front Left Equipment>
+
+<Rear Right Equipment>
+</Rear Right Equipment>
+
+<Rear Left Equipment>
+</Rear Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Rear Turret Equipment>
+CLATM12
+CLATM12
+CLERMediumPulseLaser
+CLATM12
+CLATM12
+CLModularArmor
+</Rear Turret Equipment>
+
+<Front Turret Equipment>
+TSEMP Cannon
+TSEMP Cannon
+TSEMP Cannon
+TSEMP Cannon
+CLCASEII
+CLModularArmor
+</Front Turret Equipment>
+
+<tonnage>
+200.0
+</tonnage>
+

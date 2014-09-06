@@ -1,0 +1,131 @@
+Version:1.1
+Iron Will
+IW-2
+
+Config:Biped
+TechBase:Mixed (Clan Chassis)
+Era:0
+Rules Level:4
+
+Mass:100
+Engine:300 Fusion Engine (Clan)
+Structure:Endo-Steel
+Gyro:Compact Gyro
+Myomer:Standard
+
+Heat Sinks:17 Double (Clan)
+Walk MP:3
+Jump MP:0
+
+Armor:Standard Armor (Clan)
+LA Armor:33
+RA Armor:33
+LT Armor:31
+RT Armor:31
+CT Armor:48
+HD Armor:9
+LL Armor:42
+RL Armor:42
+RTL Armor:11
+RTR Armor:11
+RTC Armor:13
+
+Weapons:4
+1 CLATM12, Left Arm, Ammo:55
+1 CLATM12, Right Arm
+1 CLATM12, Left Arm
+1 CLATM12, Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+CLATM12
+CLATM12
+CLATM12
+CLATM12
+CLATM12
+CLATM12
+CLATM12
+CLATM12
+CLATM12
+CLATM12
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+CLATM12
+CLATM12
+CLATM12
+CLATM12
+CLATM12
+CLATM12
+CLATM12
+CLATM12
+CLATM12
+CLATM12
+
+Left Torso:
+CLATM12 Ammo
+CLATM12 Ammo
+CLATM12 Ammo
+CLATM12 Ammo
+CLATM12 Ammo
+CLATM12 HE Ammo
+CLATM12 HE Ammo
+CLATM12 HE Ammo
+CLATM12 HE Ammo
+CLATM12 HE Ammo
+CLATM12 HE Ammo
+CLCASEII
+
+Right Torso:
+CLDouble Heat Sink
+CLDouble Heat Sink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Center Torso:
+Engine (armored)
+Engine (armored)
+Engine (armored)
+Gyro
+Gyro
+Engine (armored)
+Engine (armored)
+Engine (armored)
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+
+Head:
+Life Support
+Sensors
+Cockpit
+Endo-Steel
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDouble Heat Sink
+CLDouble Heat Sink
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDouble Heat Sink
+CLDouble Heat Sink

@@ -1,0 +1,132 @@
+Version:1.1
+Sir Long Shot
+Ballermann
+
+Config:Biped
+TechBase:Mixed (Clan Chassis)
+Era:0
+Rules Level:4
+
+Mass:100
+Engine:200 XL Fusion Engine (Clan)
+Structure:Standard
+Gyro:Compact Gyro
+Myomer:Standard
+
+Heat Sinks:10 Double (Clan)
+Walk MP:2
+Jump MP:0
+
+Armor:Standard Armor (Clan)
+LA Armor:34
+RA Armor:34
+LT Armor:32
+RT Armor:32
+CT Armor:47
+HD Armor:9
+LL Armor:42
+RL Armor:42
+RTL Armor:10
+RTR Armor:10
+RTC Armor:15
+
+Weapons:5
+1 CLGaussRifle, Right Torso, Ammo:56
+1 CLGaussRifle, Left Torso
+1 CLGaussRifle, Right Arm
+1 CLGaussRifle, Left Arm
+1 ISImprovedC3CPU, Center Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+CLGauss Ammo
+CLCASEII
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+CLGauss Ammo
+CLCASEII
+
+Left Torso:
+Engine
+Engine
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+CLGauss Ammo
+CLGauss Ammo
+-Empty-
+CLCASEII
+
+Right Torso:
+Engine
+Engine
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+CLGauss Ammo
+CLGauss Ammo
+-Empty-
+CLCASEII
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Engine
+Engine
+Engine
+CLDouble Heat Sink
+CLDouble Heat Sink
+ISImprovedC3CPU
+ISImprovedC3CPU
+
+Head:
+Life Support
+Sensors
+Cockpit
+CLGauss Ammo
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDouble Heat Sink
+CLDouble Heat Sink
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-

@@ -1,0 +1,132 @@
+Version:1.1
+Charger IIC
+CGR2C-X1
+
+Config:Biped
+TechBase:Mixed (Clan Chassis)
+Era:3132
+Rules Level:4
+
+Mass:80
+Engine:400 XXL Fusion Engine (Clan)
+Structure:Endo-Steel
+Myomer:CLMASC
+
+Heat Sinks:15 Double (Clan)
+Walk MP:5
+Jump MP:2
+
+Armor:Ferro-Fibrous (Clan)
+LA Armor:25
+RA Armor:25
+LT Armor:25
+RT Armor:25
+CT Armor:39
+HD Armor:9
+LL Armor:32
+RL Armor:32
+RTL Armor:9
+RTR Armor:9
+RTC Armor:10
+
+Weapons:6
+1 CLAngelECM, Right Torso
+1 CLLaserAntiMissileSystem, Head
+1 CLActiveProbe, Center Torso
+1 ISImprovedC3CPU, Left Torso
+1 CLERLargeLaser, Left Arm
+1 CLERLargeLaser, Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLERLargeLaser
+-Empty-
+-Empty-
+-Empty-
+Ferro-Fibrous
+Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLERLargeLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+Ferro-Fibrous
+Ferro-Fibrous
+Endo-Steel
+
+Left Torso:
+Engine (armored)
+Engine (armored)
+Engine (armored)
+Engine (armored)
+CLMASC
+CLMASC
+CLMASC
+ISImprovedC3CPU
+ISImprovedC3CPU
+Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+
+Right Torso:
+Engine (armored)
+Engine (armored)
+Engine (armored)
+Engine (armored)
+CLAngelECM
+CLAngelECM
+-Empty-
+-Empty-
+Ferro-Fibrous
+Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+
+Center Torso:
+Engine (armored)
+Engine (armored)
+Engine (armored)
+Gyro (armored)
+Gyro (armored)
+Gyro (armored)
+Gyro (armored)
+Engine (armored)
+Engine (armored)
+Engine (armored)
+CL Super Charger
+CLActiveProbe
+
+Head:
+Life Support
+Sensors
+Cockpit (armored)
+CLLaserAntiMissileSystem
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLImprovedJump Jet
+CLImprovedJump Jet
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLImprovedJump Jet
+CLImprovedJump Jet

@@ -1,0 +1,80 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Stoneeye
+</Name>
+
+<Model>
+T30 TAG
+</Model>
+
+<year>
+2750
+</year>
+
+<type>
+Mixed (Clan Chassis)
+</type>
+
+<tonnage>
+30.0
+</tonnage>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<engine_type>
+3
+</engine_type>
+
+<cruiseMP>
+9
+</cruiseMP>
+
+<armor_type>
+16
+</armor_type>
+
+<armor_tech>
+8
+</armor_tech>
+
+<armor>
+58
+29
+29
+29
+</armor>
+
+<Body Equipment>
+CLArmoredMotiveSystem
+ISC3iUnit
+Armored Chassis
+</Body Equipment>
+
+<Front Equipment>
+ISTAG
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+

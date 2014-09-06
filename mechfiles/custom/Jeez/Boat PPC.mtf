@@ -1,0 +1,132 @@
+Version:1.1
+Boat
+PPC
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3051
+Rules Level:2
+
+Mass:100
+Engine:300 Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:21 Double
+Walk MP:3
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:34
+RA Armor:34
+LT Armor:32
+RT Armor:32
+CT Armor:47
+HD Armor:9
+LL Armor:42
+RL Armor:42
+RTL Armor:10
+RTR Armor:10
+RTC Armor:15
+
+Weapons:6
+1 ISPPC, Left Arm
+1 ISPPC, Left Arm
+1 ISPPC, Right Arm
+1 ISPPC, Right Arm
+1 ISAntiMissileSystem, Head
+1 ISGuardianECM, Center Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISPPC
+ISPPC
+ISPPC
+ISPPC
+ISPPC
+ISPPC
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISPPC
+ISPPC
+ISPPC
+ISPPC
+ISPPC
+ISPPC
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+
+Left Torso:
+IS AMS Ammo
+IS AMS Ammo
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISCASE
+
+Right Torso:
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISGuardianECM
+ISGuardianECM
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISAntiMissileSystem
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS AMS Ammo
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS AMS Ammo
+-Empty-

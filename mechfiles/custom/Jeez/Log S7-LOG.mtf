@@ -1,0 +1,130 @@
+Version:1.1
+Log
+S7-LOG
+
+Config:Biped
+TechBase:Clan
+Era:3070
+Rules Level:3
+
+Mass:80
+Engine:320 XL Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:13 Double
+Walk MP:4
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:26
+RA Armor:26
+LT Armor:26
+RT Armor:26
+CT Armor:38
+HD Armor:9
+LL Armor:34
+RL Armor:34
+RTL Armor:8
+RTR Armor:8
+RTC Armor:12
+
+Weapons:4
+1 CLUltraAC20, Right Arm, Ammo:35
+1 CLUltraAC20, Left Arm
+1 CLERMediumLaser, Head
+1 CLERMediumLaser, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLUltraAC20
+CLUltraAC20
+CLUltraAC20
+CLUltraAC20
+CLUltraAC20
+CLUltraAC20
+CLUltraAC20
+CLUltraAC20
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLUltraAC20
+CLUltraAC20
+CLUltraAC20
+CLUltraAC20
+CLUltraAC20
+CLUltraAC20
+CLUltraAC20
+CLUltraAC20
+
+Left Torso:
+Engine
+Engine
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+CLERMediumLaser
+-Empty-
+Endo-Steel
+Endo-Steel
+
+Right Torso:
+Engine
+Engine
+CLUltraAC20 Ammo
+CLUltraAC20 Ammo
+CLUltraAC20 Ammo
+CLUltraAC20 Ammo
+CLUltraAC20 Ammo
+CLUltraAC20 Ammo
+CLUltraAC20 Ammo
+-Empty-
+Endo-Steel
+Endo-Steel
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+CLDouble Heat Sink
+CLDouble Heat Sink
+
+Head:
+Life Support
+Sensors
+Cockpit
+CLERMediumLaser
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel

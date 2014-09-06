@@ -1,0 +1,90 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+VTOL
+</UnitType>
+
+<Name>
+Snake Eagle
+</Name>
+
+<Model>
+Flying BBQ
+</Model>
+
+<year>
+3145
+</year>
+
+<type>
+Mixed (Clan Chassis) Experimental
+</type>
+
+<motion_type>
+VTOL
+</motion_type>
+
+<cruiseMP>
+7
+</cruiseMP>
+
+<engine_type>
+3
+</engine_type>
+
+<armor_type>
+1
+</armor_type>
+
+<armor_tech>
+8
+</armor_tech>
+
+<armor>
+100
+50
+49
+49
+2
+</armor>
+
+<Body Equipment>
+CLAngelECMSuite
+ISC3iUnit
+CLPlasmaCannonAmmo
+CLPlasmaCannonAmmo
+CLTargeting Computer
+CLPlasmaCannonAmmo
+CLPlasmaCannonAmmo
+CLPlasmaCannonAmmo
+</Body Equipment>
+
+<Front Equipment>
+CLPlasmaCannon
+CLPlasmaCannon
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Rotor Equipment>
+</Rotor Equipment>
+
+<tonnage>
+60.0
+</tonnage>
+

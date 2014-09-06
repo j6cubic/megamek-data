@@ -1,0 +1,129 @@
+Version:1.1
+Cherry Blossom
+CB-1
+
+Config:Biped
+TechBase:Clan
+Era:0
+Rules Level:4
+
+Mass:100
+Engine:200 Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:11 Double
+Walk MP:2
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:33
+RA Armor:33
+LT Armor:31
+RT Armor:31
+CT Armor:48
+HD Armor:9
+LL Armor:42
+RL Armor:42
+RTL Armor:11
+RTR Armor:11
+RTC Armor:13
+
+Weapons:3
+1 CLHAG40, Right Torso, Ammo:15
+1 CLHAG30, Right Arm, Ammo:32
+1 CLHAG30, Left Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLHAG30
+CLHAG30
+CLHAG30
+CLHAG30
+CLHAG30
+CLHAG30
+CLHAG30
+CLHAG30
+CLCASEII
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLHAG30
+CLHAG30
+CLHAG30
+CLHAG30
+CLHAG30
+CLHAG30
+CLHAG30
+CLHAG30
+CLCASEII
+
+Left Torso:
+CLHAG40 Ammo
+CLHAG40 Ammo
+CLHAG30 Ammo
+CLHAG30 Ammo
+CLHAG30 Ammo
+CLHAG30 Ammo
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+
+Right Torso:
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG30 Ammo
+CLCASEII
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+CLHAG40 Ammo
+CLHAG30 Ammo
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLHAG40 Ammo
+CLHAG30 Ammo
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLHAG40 Ammo
+CLHAG30 Ammo

@@ -1,0 +1,131 @@
+Version:1.1
+Haggler
+40
+
+Config:Biped
+TechBase:Clan
+Era:3100
+Rules Level:2
+
+Mass:85
+Engine:255 XL Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:3
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:28
+RA Armor:28
+LT Armor:27
+RT Armor:27
+CT Armor:41
+HD Armor:9
+LL Armor:36
+RL Armor:36
+RTL Armor:9
+RTR Armor:9
+RTC Armor:13
+
+Weapons:5
+1 CLHAG40, Left Torso, Ammo:42
+1 CLHAG40, Right Torso
+1 CLERMicroLaser, Left Arm
+1 CLERMicroLaser, Right Arm
+1 CLECMSuite, Head
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLERMicroLaser
+CLHAG40 Ammo
+CLHAG40 Ammo
+CLHAG40 Ammo
+CLHAG40 Ammo
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLERMicroLaser
+CLHAG40 Ammo
+CLHAG40 Ammo
+CLHAG40 Ammo
+CLHAG40 Ammo
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Engine
+Engine
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+
+Right Torso:
+Engine
+Engine
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+CLHAG40 Ammo
+CLHAG40 Ammo
+
+Head:
+Life Support
+Sensors
+Cockpit
+CLECMSuite
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLHAG40 Ammo
+CLHAG40 Ammo
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLHAG40 Ammo
+CLHAG40 Ammo

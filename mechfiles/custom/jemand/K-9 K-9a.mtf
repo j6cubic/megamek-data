@@ -1,0 +1,118 @@
+Version:1.1
+K-9
+K-9a
+
+Config:Quad
+TechBase:Inner Sphere
+Era:2750
+Rules Level:3
+
+Mass:35
+Engine:210 Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:6
+Jump MP:3
+
+Armor:Light Ferro-Fibrous
+LA Armor:16
+RA Armor:16
+LT Armor:12
+RT Armor:12
+CT Armor:17
+HD Armor:9
+LL Armor:16
+RL Armor:16
+RTL Armor:4
+RTR Armor:4
+RTC Armor:5
+
+Weapons:4
+1 ISLargeLaser, Right Torso
+1 ISMediumLaser, Head
+1 ISMediumLaser, Left Torso
+1 ISMediumLaser, Left Torso
+
+Left Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+
+Right Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+
+Left Torso:
+Jump Jet
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISMediumLaser
+ISMediumLaser
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+
+Right Torso:
+Jump Jet
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISLargeLaser
+ISLargeLaser
+Endo-Steel
+Endo-Steel
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Jump Jet
+Endo-Steel
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISMediumLaser
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel

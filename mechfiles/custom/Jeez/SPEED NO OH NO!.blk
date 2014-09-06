@@ -1,0 +1,78 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+SPEED NO
+</Name>
+
+<Model>
+OH NO!
+</Model>
+
+<year>
+2750
+</year>
+
+<type>
+Mixed (Clan Chassis)
+</type>
+
+<tonnage>
+10.0
+</tonnage>
+
+<motion_type>
+Hover
+</motion_type>
+
+<engine_type>
+3
+</engine_type>
+
+<cruiseMP>
+20
+</cruiseMP>
+
+<armor_type>
+5
+</armor_type>
+
+<armor_tech>
+8
+</armor_tech>
+
+<armor>
+14
+7
+6
+6
+</armor>
+
+<Body Equipment>
+ISC3iUnit
+CLMASC
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+

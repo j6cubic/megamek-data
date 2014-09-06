@@ -1,0 +1,117 @@
+Version:1.1
+4xG
+4xG 2H40
+
+Config:Quad
+TechBase:Clan
+Era:2750
+Rules Level:3
+
+Mass:100
+Engine:300 Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:3
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:42
+RA Armor:42
+LT Armor:32
+RT Armor:32
+CT Armor:47
+HD Armor:9
+LL Armor:42
+RL Armor:42
+RTL Armor:10
+RTR Armor:10
+RTC Armor:15
+
+Weapons:3
+1 CLHAG40, Right Torso, Ammo:36
+1 CLHAG40, Left Torso
+1 CLERSmallLaser, Head
+
+Left Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLHAG40 Ammo
+CLHAG40 Ammo
+
+Right Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLHAG40 Ammo
+CLHAG40 Ammo
+
+Left Torso:
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40 Ammo
+CLHAG40 Ammo
+
+Right Torso:
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40 Ammo
+CLHAG40 Ammo
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+CLHAG40 Ammo
+CLHAG40 Ammo
+
+Head:
+Life Support
+Sensors
+Cockpit
+CLERSmallLaser
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLHAG40 Ammo
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLHAG40 Ammo
+-Empty-

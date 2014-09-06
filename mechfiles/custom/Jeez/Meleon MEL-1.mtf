@@ -1,0 +1,130 @@
+Version:1.1
+Meleon
+MEL-1
+
+Config:Biped
+TechBase:Mixed (Clan Chassis)
+Era:0
+Rules Level:4
+
+Mass:25
+Engine:225 XL Fusion Engine (Clan)
+Structure:Endo-Steel
+Myomer:CLMASC
+
+Heat Sinks:10 Double (Clan)
+Walk MP:9
+Jump MP:0
+
+Armor:Ferro-Fibrous (Clan)
+LA Armor:8
+RA Armor:8
+LT Armor:9
+RT Armor:9
+CT Armor:12
+HD Armor:9
+LL Armor:12
+RL Armor:12
+RTL Armor:3
+RTR Armor:3
+RTC Armor:4
+
+Weapons:4
+1 CLAngelECM, Left Torso
+1 CLMediumPulseLaser, Right Arm
+1 CLMediumPulseLaser, Left Arm
+1 CLLightActiveProbe, Head
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+VoidSignatureSystem
+CLMediumPulseLaser
+-Empty-
+-Empty-
+Ferro-Fibrous
+Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+VoidSignatureSystem
+CLMediumPulseLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+Ferro-Fibrous
+Endo-Steel
+
+Left Torso:
+Engine
+Engine
+VoidSignatureSystem
+CLAngelECM
+CLAngelECM
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+Ferro-Fibrous
+Ferro-Fibrous
+Endo-Steel
+
+Right Torso:
+Engine
+Engine
+VoidSignatureSystem
+CLDouble Heat Sink
+CLDouble Heat Sink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+Ferro-Fibrous
+Ferro-Fibrous
+Endo-Steel
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+VoidSignatureSystem
+CLMASC
+
+Head:
+Life Support
+Sensors
+Cockpit
+CLLightActiveProbe
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+VoidSignatureSystem
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+VoidSignatureSystem
+Endo-Steel

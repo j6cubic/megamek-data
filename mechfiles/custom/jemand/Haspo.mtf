@@ -1,0 +1,132 @@
+Version:1.1
+Haspo
+
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Rules Level:2
+
+Mass:45
+Engine:360 XL Fusion Engine
+Structure:Standard
+Gyro:XL Gyro
+Myomer:ISMASC
+
+Heat Sinks:10 Double
+Walk MP:8
+Jump MP:0
+
+Armor:Heavy Ferro-Fibrous
+LA Armor:14
+RA Armor:14
+LT Armor:17
+RT Armor:17
+CT Armor:21
+HD Armor:9
+LL Armor:22
+RL Armor:22
+RTL Armor:5
+RTR Armor:5
+RTC Armor:7
+
+Weapons:5
+1 ISC3SlaveUnit, Head
+1 ISTAG, Left Arm
+1 ISMML5, Right Arm, Ammo:48
+1 ISMediumLaser, Left Arm
+1 ISMediumLaser, Left Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISMediumLaser
+ISMediumLaser
+ISTAG
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISMML5
+ISMML5
+ISMML5
+-Empty-
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+
+Left Torso:
+Engine
+Engine
+Engine
+ISMML5 LRM Ammo
+ISMML5 SRM Ammo
+-Empty-
+-Empty-
+-Empty-
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+
+Right Torso:
+Engine
+Engine
+Engine
+ISMASC
+ISMASC
+-Empty-
+-Empty-
+-Empty-
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISC3SlaveUnit
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous

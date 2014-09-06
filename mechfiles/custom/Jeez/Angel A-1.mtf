@@ -1,0 +1,131 @@
+Version:1.1
+Angel
+A-1
+
+Config:Biped
+TechBase:Mixed (Clan Chassis)
+Era:0
+Rules Level:4
+
+Mass:15
+Engine:105 XXL Fusion Engine (Clan)
+Structure:Endo-Steel
+Gyro:XL Gyro
+Myomer:CLMASC
+
+Heat Sinks:10 Double (Clan)
+Walk MP:7
+Jump MP:0
+
+Armor:Ferro-Fibrous (Clan)
+LA Armor:4
+RA Armor:4
+LT Armor:6
+RT Armor:6
+CT Armor:7
+HD Armor:8
+LL Armor:5
+RL Armor:5
+RTL Armor:1
+RTR Armor:1
+RTC Armor:1
+
+Weapons:4
+1 ISImprovedC3CPU, Right Torso
+1 CLECMSuite, Left Torso
+1 CLImprovedHeavySmallLaser, Right Arm
+1 CLImprovedHeavyMediumLaser, Left Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLImprovedHeavyMediumLaser
+CLImprovedHeavyMediumLaser
+-Empty-
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Ferro-Fibrous
+Ferro-Fibrous
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLImprovedHeavySmallLaser
+-Empty-
+-Empty-
+Endo-Steel
+Endo-Steel
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+
+Left Torso:
+Engine
+Engine
+Engine
+Engine
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLMASC
+CLECMSuite
+
+Right Torso:
+Engine
+Engine
+Engine
+Engine
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+ISImprovedC3CPU
+ISImprovedC3CPU
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Ferro-Fibrous
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Ferro-Fibrous

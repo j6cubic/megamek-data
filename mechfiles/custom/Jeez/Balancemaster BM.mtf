@@ -1,0 +1,130 @@
+Version:1.1
+Balancemaster
+BM
+
+Config:Biped
+TechBase:Clan
+Era:3070
+Rules Level:4
+
+Mass:55
+Engine:220 XL Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:14 Double
+Walk MP:4
+Jump MP:0
+
+Armor:Ferro-Fibrous
+LA Armor:18
+RA Armor:18
+LT Armor:19
+RT Armor:19
+CT Armor:28
+HD Armor:9
+LL Armor:25
+RL Armor:25
+RTL Armor:7
+RTR Armor:7
+RTC Armor:7
+
+Weapons:4
+1 CLUltraAC10, Left Arm, Ammo:40
+1 CLERLargeLaser, Right Arm
+1 CLMediumPulseLaser, Left Arm
+1 CLMediumPulseLaser, Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLUltraAC10
+CLUltraAC10
+CLUltraAC10
+CLUltraAC10
+CLMediumPulseLaser
+Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLERLargeLaser
+CLMediumPulseLaser
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+
+Left Torso:
+Engine
+Engine
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLUltraAC10 Ammo
+CLUltraAC10 Ammo
+CLUltraAC10 Ammo
+CLCASEII
+
+Right Torso:
+Engine
+Engine
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLUltraAC10 Ammo
+CLCASEII
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+CLDouble Heat Sink
+CLDouble Heat Sink
+
+Head:
+Life Support
+Sensors
+Cockpit
+Endo-Steel
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+Endo-Steel

@@ -1,0 +1,134 @@
+Version:1.1
+Zombie II
+ZMB20
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3120
+Rules Level:4
+
+Mass:100
+Engine:300 Compact Fusion Engine
+Structure:Standard
+Gyro:Compact Gyro
+Myomer:Standard
+
+Heat Sinks:18 Double
+Walk MP:3
+Jump MP:0
+
+Armor:Heavy Ferro-Fibrous
+LA Armor:34
+RA Armor:34
+LT Armor:32
+RT Armor:32
+CT Armor:47
+HD Armor:9
+LL Armor:42
+RL Armor:42
+RTL Armor:10
+RTR Armor:10
+RTC Armor:15
+
+Weapons:7
+1 ISMediumLaser, Left Arm
+1 ISMediumLaser, Left Arm
+1 ISGuardianECM (armored), Center Torso
+1 ISLargeLaser, Right Arm
+1 ISLargeLaser (armored), Right Arm
+1 ISLargeLaser (armored), Left Arm
+1 ISMediumLaser, Head
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISLargeLaser (armored)
+ISLargeLaser (armored)
+ISMediumLaser
+ISMediumLaser
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISLargeLaser (armored)
+ISLargeLaser (armored)
+ISLargeLaser
+ISLargeLaser
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+
+Left Torso:
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+
+Right Torso:
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+-Empty-
+-Empty-
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+
+Center Torso:
+Engine (armored)
+Engine (armored)
+Engine (armored)
+Gyro (armored)
+Gyro (armored)
+ISDouble Heat Sink (armored)
+ISDouble Heat Sink (armored)
+ISDouble Heat Sink (armored)
+ISGuardianECM (armored)
+ISGuardianECM (armored)
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+
+Head:
+Life Support (armored)
+Sensors (armored)
+Cockpit (armored)
+ISMediumLaser
+Sensors (armored)
+Life Support (armored)
+
+Left Leg:
+Hip (armored)
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+
+Right Leg:
+Hip (armored)
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous

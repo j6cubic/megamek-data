@@ -1,0 +1,133 @@
+Version:1.1
+Wesley
+WS-3
+
+Config:Biped
+TechBase:Mixed (Clan Chassis)
+Era:0
+Rules Level:4
+
+Mass:100
+Engine:300 Fusion Engine (Clan)
+Structure:Endo-Steel
+Gyro:Compact Gyro
+Myomer:Standard
+
+Heat Sinks:10 Double (Clan)
+Walk MP:3
+Jump MP:0
+
+Armor:Ferro-Fibrous (Clan)
+LA Armor:30
+RA Armor:30
+LT Armor:31
+RT Armor:31
+CT Armor:45
+HD Armor:9
+LL Armor:39
+RL Armor:39
+RTL Armor:11
+RTR Armor:11
+RTC Armor:12
+
+Weapons:6
+1 CLRotaryAC2, Center Torso, Ammo:135
+1 CLRotaryAC2, Left Arm
+1 CLRotaryAC2, Right Arm
+1 CLRotaryAC2, Right Arm
+1 CLRotaryAC2, Left Arm
+1 CLHeavyMediumLaser, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLRotaryAC2
+CLRotaryAC2
+CLRotaryAC2
+CLRotaryAC2
+CLRotaryAC2
+CLRotaryAC2
+CLRotaryAC2
+CLRotaryAC2
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLRotaryAC2
+CLRotaryAC2
+CLRotaryAC2
+CLRotaryAC2
+CLRotaryAC2
+CLRotaryAC2
+CLRotaryAC2
+CLRotaryAC2
+
+Left Torso:
+CLHeavyMediumLaser
+CLHeavyMediumLaser
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+Ferro-Fibrous
+
+Right Torso:
+CLRotaryAC2 Ammo
+CLRotaryAC2 Ammo
+CLRotaryAC2 Ammo
+Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Ferro-Fibrous
+Ferro-Fibrous
+CLCASEII
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Engine
+Engine
+Engine
+CLRotaryAC2
+CLRotaryAC2
+CLRotaryAC2
+CLRotaryAC2
+
+Head:
+Life Support
+Sensors
+Cockpit
+Ferro-Fibrous
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Ferro-Fibrous
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Ferro-Fibrous

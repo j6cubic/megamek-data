@@ -1,0 +1,128 @@
+Version:1.1
+Phaser
+HG
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Rules Level:2
+
+Mass:30
+Engine:90 XL Fusion Engine
+Structure:Standard
+Cockpit:Small Cockpit
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:3
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:0
+RA Armor:0
+LT Armor:1
+RT Armor:1
+CT Armor:1
+HD Armor:5
+LL Armor:0
+RL Armor:0
+RTL Armor:0
+RTR Armor:0
+RTC Armor:0
+
+Weapons:1
+1 ISHeavyGaussRifle, Center Torso, Ammo:16
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+-Empty-
+-Empty-
+
+Left Torso:
+Engine
+Engine
+Engine
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+
+Right Torso:
+Engine
+Engine
+Engine
+ISHeavyGaussRifle
+ISHeavyGaussRifle
+ISHeavyGaussRifle
+ISHeavyGaussRifle
+ISHeavyGaussRifle
+ISHeavyGaussRifle
+ISHeavyGaussRifle
+ISHeavyGaussRifle
+ISHeavyGaussRifle
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISHeavyGaussRifle
+ISHeavyGaussRifle
+
+Head:
+Life Support
+Sensors
+Cockpit
+Sensors
+IS Heavy Gauss Rifle Ammo
+IS Heavy Gauss Rifle Ammo
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Heavy Gauss Rifle Ammo
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Heavy Gauss Rifle Ammo
+-Empty-

@@ -1,0 +1,131 @@
+Version:1.1
+Overhot
+S7-HOT
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Rules Level:3
+
+Mass:100
+Engine:400 Light Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:17 Double
+Walk MP:4
+Jump MP:0
+
+Armor:Ferro-Fibrous
+LA Armor:34
+RA Armor:34
+LT Armor:32
+RT Armor:32
+CT Armor:47
+HD Armor:9
+LL Armor:42
+RL Armor:42
+RTL Armor:10
+RTR Armor:10
+RTC Armor:15
+
+Weapons:5
+1 ISPlasmaRifle, Left Arm, Ammo:30
+1 ISPlasmaRifle, Right Arm
+1 ISLargeLaser, Left Arm
+1 ISMediumLaser, Right Arm
+1 ISLRM5 (iOS), Head
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISPlasmaRifle
+ISPlasmaRifle
+ISLargeLaser
+ISLargeLaser
+Ferro-Fibrous
+Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISPlasmaRifle
+ISPlasmaRifle
+ISMediumLaser
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+
+Left Torso:
+Engine
+Engine
+ISPlasmaRifle Ammo
+ISPlasmaRifle Ammo
+ISPlasmaRifle Ammo
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+ISCASE
+
+Right Torso:
+Engine
+Engine
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Endo-Steel
+Endo-Steel
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISLRM5 (iOS)
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel

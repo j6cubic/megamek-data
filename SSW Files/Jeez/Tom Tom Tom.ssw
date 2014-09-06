@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Tom" model="Tom Tom" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>3678</battle_value>
+    <cost>2.24E7</cost>
+    <rules_level>3</rules_level>
+    <era>4</era>
+    <productionera>0</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Mixed</techbase>
+    <year restricted="FALSE">2750</year>
+    <motive_type>Quad</motive_type>
+    <structure manufacturer="Unknown" techbase="1">
+        <type>Endo-Steel</type>
+        <location index="4">FLL</location>
+        <location index="4">FRL</location>
+        <location index="4">RLL</location>
+        <location index="4">RRL</location>
+        <location index="9">LT</location>
+        <location index="10">LT</location>
+        <location index="10">RT</location>
+    </structure>
+    <engine rating="300" manufacturer="Unknown" lsstart="-1" rsstart="-1" techbase="0">Compact Fusion Engine</engine>
+    <gyro techbase="0">Compact Gyro</gyro>
+    <cockpit>
+        <type>Torso-Mounted Cockpit</type>
+        <location index="5">CT</location>
+        <location index="6">CT</location>
+        <location index="0">LT</location>
+        <location index="0">RT</location>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="2">
+        <type>Hardened Armor</type>
+        <hd>9</hd>
+        <ct>48</ct>
+        <ctr>13</ctr>
+        <lt>31</lt>
+        <ltr>11</ltr>
+        <rt>31</rt>
+        <rtr>11</rtr>
+        <la>41</la>
+        <ra>41</ra>
+        <ll>42</ll>
+        <rl>42</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source></source>
+        <info>Tom Tom Tom 100t, 3/5[4]/0, CFE, ES Quad, Cmp Gyro; 40.0T/99% Hrdnd Armor; 20 DHS; 1 AECM, 6 ERML, VoidSig</info>
+        <battleforce pv="37" wt="4" mv="3" s="5" m="5" l="0" e="0" ov="0" armor="16" internal="10" abilities="MAS, AECM, ENE, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="20" techbase="1">
+            <type>Double Heat Sink</type>
+
+            <location index="3">LT</location>
+            <location index="9">CT</location>
+            <location index="3">RT</location>
+            <location index="5">LT</location>
+            <location index="5">RT</location>
+            <location index="7">LT</location>
+            <location index="7">RT</location>
+            <location index="4">HD</location>
+        </heatsinks>
+        <multislot name="Void Signature System">
+            <location index="5">FLL</location>
+            <location index="5">FRL</location>
+            <location index="5">RLL</location>
+            <location index="5">RRL</location>
+            <location index="11">CT</location>
+            <location index="11">LT</location>
+            <location index="11">RT</location>
+        </multislot>
+        <equipment>
+            <name manufacturer="">Angel ECM</name>
+            <type>equipment</type>
+            <location index="7">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="1">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="3">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="2">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="1">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="2">RT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

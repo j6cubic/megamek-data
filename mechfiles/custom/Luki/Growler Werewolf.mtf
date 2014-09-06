@@ -1,0 +1,140 @@
+Version:1.1
+Growler
+Werewolf
+
+Config:Biped
+TechBase:Mixed (Clan Chassis)
+Era:3058
+Rules Level:4
+
+Mass:55
+Engine:385 XXL Fusion Engine (Clan)
+Structure:Endo-Steel
+Myomer:Triple Strength Myomer
+
+Heat Sinks:19 Double (Clan)
+Walk MP:7
+Jump MP:0
+
+Armor:Standard Armor (Clan)
+LA Armor:13
+RA Armor:13
+LT Armor:18
+RT Armor:18
+CT Armor:21
+HD Armor:9
+LL Armor:18
+RL Armor:18
+RTL Armor:5
+RTR Armor:5
+RTC Armor:6
+
+Weapons:14
+1 CLFlamer, Left Arm
+1 CLFlamer, Left Arm
+1 CLFlamer, Left Arm
+1 CLFlamer, Left Arm
+1 CLFlamer, Right Arm
+1 CLFlamer, Right Arm
+1 CLFlamer, Right Arm
+1 CLFlamer, Right Arm
+1 Talons, Left Leg
+1 CLFlamer, Left Arm
+1 CLFlamer, Left Arm
+1 CLFlamer, Right Arm
+1 CLFlamer, Right Arm
+1 CLERFlamer, Head
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+CLFlamer
+CLFlamer
+CLFlamer
+CLFlamer
+CLFlamer
+CLFlamer
+-Empty-
+-Empty-
+CLDouble Heat Sink
+CLDouble Heat Sink
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+CLFlamer
+CLFlamer
+CLFlamer
+CLFlamer
+CLFlamer
+CLFlamer
+-Empty-
+-Empty-
+CLDouble Heat Sink
+CLDouble Heat Sink
+
+Left Torso:
+Engine
+Engine
+Engine
+Engine
+CLDouble Heat Sink
+CLDouble Heat Sink
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Triple Strength Myomer
+Triple Strength Myomer
+Triple Strength Myomer
+
+Right Torso:
+Engine
+Engine
+Engine
+Engine
+CLDouble Heat Sink
+CLDouble Heat Sink
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Triple Strength Myomer
+Triple Strength Myomer
+Triple Strength Myomer
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+CL Super Charger
+Endo-Steel
+
+Head:
+Life Support
+Sensors
+Cockpit
+CLERFlamer
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Talons
+Talons
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Talons
+Talons

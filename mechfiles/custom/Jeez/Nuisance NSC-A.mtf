@@ -1,0 +1,133 @@
+Version:1.1
+Nuisance
+NSC-A
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3132
+Rules Level:4
+
+Mass:30
+Engine:240 XL Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:8
+Jump MP:2
+
+Armor:Ferro-Fibrous
+LA Armor:8
+RA Armor:8
+LT Armor:9
+RT Armor:9
+CT Armor:12
+HD Armor:9
+LL Armor:12
+RL Armor:12
+RTL Armor:3
+RTR Armor:3
+RTC Armor:4
+
+Weapons:7
+1 ISAngelECM, Left Torso
+1 ISLaserAntiMissileSystem, Left Torso
+1 ISImprovedC3CPU, Center Torso
+1 ISTAG, Right Torso
+1 ISReconCamera, Head
+1 ISERMediumLaser, Right Arm
+1 ISERMediumLaser, Left Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISERMediumLaser
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISERMediumLaser
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Left Torso:
+Engine
+Engine
+Engine
+ISAngelECM
+ISAngelECM
+ISLaserAntiMissileSystem
+ISLaserAntiMissileSystem
+Ferro-Fibrous
+Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Right Torso:
+Engine
+Engine
+Engine
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+Ferro-Fibrous
+ISTAG
+Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISImprovedC3CPU
+ISImprovedC3CPU
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISReconCamera
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Endo-Steel

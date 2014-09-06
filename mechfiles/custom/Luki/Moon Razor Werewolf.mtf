@@ -1,0 +1,118 @@
+Version:1.1
+Moon Razor
+Werewolf
+
+Config:Quad
+TechBase:Mixed (Clan Chassis)
+Era:3055
+Rules Level:4
+
+Mass:100
+Engine:300 Fusion Engine (Clan)
+Structure:Standard
+Myomer:Triple Strength Myomer
+
+Heat Sinks:10 Double (Clan)
+Walk MP:3
+Jump MP:0
+
+Armor:Standard Armor (Clan)
+LA Armor:42
+RA Armor:42
+LT Armor:29
+RT Armor:29
+CT Armor:44
+HD Armor:9
+LL Armor:42
+RL Armor:42
+RTL Armor:11
+RTR Armor:11
+RTC Armor:16
+
+Weapons:4
+1 CLHeavyLargeLaser, Right Torso
+1 Talons (armored), Left Leg
+1 CLHAG30, Left Torso, Ammo:16
+1 CLHeavyMediumLaser, Right Torso
+
+Left Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Talons (armored)
+Talons (armored)
+
+Right Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Talons (armored)
+Talons (armored)
+
+Left Torso:
+CLHAG30 Ammo
+CLHAG30 Ammo
+CLHAG30 Ammo
+CLHAG30 Ammo
+CLHAG30
+CLHAG30
+CLHAG30
+CLHAG30
+CLHAG30
+CLHAG30
+CLHAG30
+CLHAG30
+
+Right Torso:
+Triple Strength Myomer
+CLHeavyMediumLaser
+CLHeavyMediumLaser
+Triple Strength Myomer
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+Triple Strength Myomer
+CLHeavyLargeLaser
+CLHeavyLargeLaser
+CLHeavyLargeLaser
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Triple Strength Myomer
+Triple Strength Myomer
+
+Head:
+Life Support
+Sensors
+Cockpit
+Triple Strength Myomer
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Talons (armored)
+Talons (armored)
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Talons (armored)
+Talons (armored)

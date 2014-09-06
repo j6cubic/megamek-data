@@ -1,0 +1,95 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+VTOL
+</UnitType>
+
+<Name>
+Narcsman
+</Name>
+
+<Model>
+
+</Model>
+
+<year>
+2750
+</year>
+
+<type>
+Mixed (Clan Chassis)
+</type>
+
+<motion_type>
+VTOL
+</motion_type>
+
+<cruiseMP>
+10
+</cruiseMP>
+
+<engine_type>
+3
+</engine_type>
+
+<armor_type>
+8
+</armor_type>
+
+<armor_tech>
+8
+</armor_tech>
+
+<armor>
+51
+25
+25
+25
+2
+</armor>
+
+<Body Equipment>
+ISC3iUnit
+ISiNarc Pods
+ISiNarc Pods
+ISiNarc Pods
+ISiNarc Haywire Pods
+ISiNarc Haywire Pods
+ISiNarc Explosive Pods
+ISiNarc Explosive Pods
+ISiNarc Explosive Pods
+CL Super Charger
+CLAngelECMSuite
+Stealth
+</Body Equipment>
+
+<Front Equipment>
+ISImprovedNarc
+CLTAG
+CLERSmallLaser
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Rotor Equipment>
+</Rotor Equipment>
+
+<tonnage>
+30.0
+</tonnage>
+

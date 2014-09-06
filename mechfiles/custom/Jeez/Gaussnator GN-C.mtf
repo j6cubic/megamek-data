@@ -1,0 +1,130 @@
+Version:1.1
+Gaussnator
+GN-C
+
+Config:Biped
+TechBase:Clan
+Era:3150
+Rules Level:4
+
+Mass:100
+Engine:200 Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:2
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:28
+RA Armor:28
+LT Armor:31
+RT Armor:31
+CT Armor:42
+HD Armor:9
+LL Armor:35
+RL Armor:35
+RTL Armor:11
+RTR Armor:11
+RTC Armor:11
+
+Weapons:4
+1 CLHAG30 (armored), Right Arm, Ammo:44
+1 CLHAG30 (armored), Left Arm
+1 CLAngelECM, Center Torso
+1 CLERMediumLaser, Head
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLHAG30 (armored)
+CLHAG30 (armored)
+CLHAG30 (armored)
+CLHAG30 (armored)
+CLHAG30 (armored)
+CLHAG30 (armored)
+CLHAG30 (armored)
+CLHAG30 (armored)
+CLCASEII
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLHAG30 (armored)
+CLHAG30 (armored)
+CLHAG30 (armored)
+CLHAG30 (armored)
+CLHAG30 (armored)
+CLHAG30 (armored)
+CLHAG30 (armored)
+CLHAG30 (armored)
+CLCASEII
+
+Left Torso:
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+CLHAG30 Ammo
+CLHAG30 Ammo
+CLHAG30 Ammo
+CLHAG30 Ammo
+CLHAG30 Ammo
+CLHAG30 Ammo
+
+Right Torso:
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+-Empty-
+CLHAG30 Ammo
+CLHAG30 Ammo
+CLHAG30 Ammo
+CLHAG30 Ammo
+CLHAG30 Ammo
+
+Center Torso:
+Engine (armored)
+Engine (armored)
+Engine (armored)
+Gyro
+Gyro
+Gyro
+Gyro
+Engine (armored)
+Engine (armored)
+Engine (armored)
+CLAngelECM
+CLAngelECM
+
+Head:
+Life Support
+Sensors
+Cockpit (armored)
+CLERMediumLaser
+Sensors
+Life Support (armored)
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDouble Heat Sink
+CLDouble Heat Sink
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDouble Heat Sink
+CLDouble Heat Sink

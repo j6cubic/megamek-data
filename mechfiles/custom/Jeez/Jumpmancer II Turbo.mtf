@@ -1,0 +1,118 @@
+Version:1.1
+Jumpmancer
+II Turbo
+
+Config:Quad
+TechBase:Mixed (Clan Chassis)
+Era:2750
+Rules Level:4
+
+Mass:35
+Engine:315 XXL Fusion Engine (Clan)
+Structure:Standard
+Gyro:Compact Gyro
+Cockpit:Small Cockpit
+Myomer:Standard
+
+Heat Sinks:10 Double (Inner Sphere)
+Walk MP:9
+Jump MP:14
+
+Armor:Standard Armor (Clan)
+LA Armor:0
+RA Armor:0
+LT Armor:0
+RT Armor:0
+CT Armor:0
+HD Armor:0
+LL Armor:0
+RL Armor:0
+RTL Armor:0
+RTR Armor:0
+RTC Armor:0
+
+Weapons:2
+1 ISC3SlaveUnit, Head
+1 ISC3SlaveUnit, Head
+
+Left Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLImprovedJump Jet
+CLImprovedJump Jet
+
+Right Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLImprovedJump Jet
+CLImprovedJump Jet
+
+Left Torso:
+Engine
+Engine
+Engine
+Engine
+CLImprovedJump Jet
+CLImprovedJump Jet
+CLImprovedJump Jet
+CLImprovedJump Jet
+CLImprovedJump Jet
+CLImprovedJump Jet
+CLImprovedJump Jet
+CLImprovedJump Jet
+
+Right Torso:
+Engine
+Engine
+Engine
+Engine
+CLImprovedJump Jet
+CLImprovedJump Jet
+CLImprovedJump Jet
+CLImprovedJump Jet
+CLImprovedJump Jet
+CLImprovedJump Jet
+CLImprovedJump Jet
+CLImprovedJump Jet
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Engine
+Engine
+Engine
+CLImprovedJump Jet
+CLImprovedJump Jet
+CLImprovedJump Jet
+CLImprovedJump Jet
+
+Head:
+Life Support
+Sensors
+Cockpit
+Sensors
+ISC3SlaveUnit
+ISC3SlaveUnit
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLImprovedJump Jet
+CLImprovedJump Jet
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLImprovedJump Jet
+CLImprovedJump Jet

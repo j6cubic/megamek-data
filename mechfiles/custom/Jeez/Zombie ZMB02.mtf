@@ -1,0 +1,143 @@
+Version:1.1
+Zombie
+ZMB02
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3100
+Rules Level:2
+
+Mass:100
+Engine:300 Compact Engine
+Structure:Standard
+Gyro:Compact Gyro
+Myomer:Standard
+
+Heat Sinks:21 Double
+Walk MP:3
+Jump MP:0
+
+Armor:Light Ferro-Fibrous
+LA Armor:34
+RA Armor:34
+LT Armor:32
+RT Armor:32
+CT Armor:47
+HD Armor:9
+LL Armor:42
+RL Armor:42
+RTL Armor:10
+RTR Armor:10
+RTC Armor:15
+
+Weapons:16
+1 ISGuardianECM, Center Torso
+1 ISMediumLaser, Right Arm
+1 ISMediumLaser, Left Torso
+1 ISMediumLaser, Left Arm
+1 ISMediumLaser, Right Arm
+1 ISMediumLaser, Left Arm
+1 ISMediumLaser, Right Arm
+1 ISMediumLaser, Left Arm
+1 ISMediumLaser, Right Torso
+1 ISMediumLaser, Left Torso
+1 ISMediumLaser, Right Torso
+1 ISMediumLaser, Left Torso
+1 ISMediumLaser, Right Torso
+1 ISGuardianECM, Center Torso
+1 ISMediumLaser, Left Arm
+1 ISSmallLaser, Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISMediumLaser
+ISMediumLaser
+ISMediumLaser
+ISMediumLaser
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+Light Ferro-Fibrous
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISMediumLaser
+ISMediumLaser
+ISMediumLaser
+ISSmallLaser
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+Light Ferro-Fibrous
+
+Left Torso:
+ISMediumLaser
+ISMediumLaser
+ISMediumLaser
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+
+Right Torso:
+ISMediumLaser
+ISMediumLaser
+ISMediumLaser
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISGuardianECM
+ISGuardianECM
+ISGuardianECM
+ISGuardianECM
+
+Head:
+Life Support
+Sensors
+Cockpit
+Light Ferro-Fibrous
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Light Ferro-Fibrous
+Light Ferro-Fibrous

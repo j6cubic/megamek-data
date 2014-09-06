@@ -1,0 +1,132 @@
+Version:1.1
+Gaussnator
+GN-D
+
+Config:Biped
+TechBase:Mixed (Clan Chassis)
+Era:3150
+Rules Level:4
+
+Mass:100
+Engine:200 Fusion Engine (Clan)
+Structure:Endo-Steel
+Gyro:Compact Gyro
+Myomer:Standard
+
+Heat Sinks:10 Double (Clan)
+Walk MP:2
+Jump MP:0
+
+Armor:Standard Armor (Clan)
+LA Armor:28
+RA Armor:28
+LT Armor:31
+RT Armor:31
+CT Armor:42
+HD Armor:9
+LL Armor:35
+RL Armor:35
+RTL Armor:11
+RTR Armor:11
+RTC Armor:11
+
+Weapons:5
+1 CLHAG30 (armored), Right Arm, Ammo:72
+1 CLHAG30 (armored), Left Arm
+1 CLAngelECM, Center Torso
+1 CLERMediumLaser, Head
+1 CL, Center Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLHAG30 (armored)
+CLHAG30 (armored)
+CLHAG30 (armored)
+CLHAG30 (armored)
+CLHAG30 (armored)
+CLHAG30 (armored)
+CLHAG30 (armored)
+CLHAG30 (armored)
+CLCASEII
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLHAG30 (armored)
+CLHAG30 (armored)
+CLHAG30 (armored)
+CLHAG30 (armored)
+CLHAG30 (armored)
+CLHAG30 (armored)
+CLHAG30 (armored)
+CLHAG30 (armored)
+CLCASEII
+
+Left Torso:
+CLHAG30 Ammo
+CLHAG30 Ammo
+CLHAG30 Ammo
+CLHAG30 Ammo
+CLHAG30 Ammo
+CLHAG30 Ammo
+CLHAG30 Ammo
+CLHAG30 Ammo
+CLHAG30 Ammo
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Right Torso:
+CLHAG30 Ammo
+CLHAG30 Ammo
+CLHAG30 Ammo
+CLHAG30 Ammo
+CLHAG30 Ammo
+CLHAG30 Ammo
+CLHAG30 Ammo
+CLHAG30 Ammo
+CLHAG30 Ammo
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Center Torso:
+Engine (armored)
+Engine (armored)
+Engine (armored)
+Gyro (armored)
+Gyro (armored)
+Engine (armored)
+Engine (armored)
+Engine (armored)
+CL
+CLAngelECM
+CLAngelECM
+Endo-Steel
+
+Head:
+Life Support
+Sensors
+Cockpit (armored)
+CLERMediumLaser
+Sensors
+Life Support (armored)
+
+Left Leg:
+Hip (armored)
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDouble Heat Sink
+CLDouble Heat Sink
+
+Right Leg:
+Hip (armored)
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDouble Heat Sink
+CLDouble Heat Sink

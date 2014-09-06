@@ -1,0 +1,82 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Hokey
+</Name>
+
+<Model>
+
+</Model>
+
+<year>
+2750
+</year>
+
+<type>
+IS Level 3
+</type>
+
+<tonnage>
+50.0
+</tonnage>
+
+<motion_type>
+Hover
+</motion_type>
+
+<engine_type>
+2
+</engine_type>
+
+<cruiseMP>
+10
+</cruiseMP>
+
+<armor_type>
+1
+</armor_type>
+
+<armor_tech>
+5
+</armor_tech>
+
+<armor>
+72
+36
+36
+36
+35
+</armor>
+
+<Body Equipment>
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+ISPlasmaRifle
+Medium Laser
+</Turret Equipment>
+

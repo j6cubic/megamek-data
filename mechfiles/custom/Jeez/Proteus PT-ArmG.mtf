@@ -1,0 +1,118 @@
+Version:1.1
+Proteus
+PT-ArmG
+
+Config:Quad
+TechBase:Mixed (Clan Chassis)
+Era:2750
+Rules Level:4
+
+Mass:100
+Engine:300 Fusion Engine (Clan)
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:10 Double (Clan)
+Walk MP:3
+Jump MP:0
+
+Armor:Standard Armor (Clan)
+LA Armor:23
+RA Armor:23
+LT Armor:32
+RT Armor:32
+CT Armor:37
+HD Armor:9
+LL Armor:29
+RL Armor:29
+RTL Armor:8
+RTR Armor:8
+RTC Armor:10
+
+Weapons:4
+1 CLGaussRifle (armored), Left Torso, Ammo:72
+1 CLGaussRifle (armored), Left Torso
+1 CLGaussRifle (armored), Right Torso
+1 CLERMediumLaser, Head
+
+Left Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLGauss Ammo
+CLGauss Ammo
+
+Right Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLGauss Ammo
+CLGauss Ammo
+
+Left Torso:
+CLGaussRifle (armored)
+CLGaussRifle (armored)
+CLGaussRifle (armored)
+CLGaussRifle (armored)
+CLGaussRifle (armored)
+CLGaussRifle (armored)
+CLGaussRifle (armored)
+CLGaussRifle (armored)
+CLGaussRifle (armored)
+CLGaussRifle (armored)
+CLGaussRifle (armored)
+CLGaussRifle (armored)
+
+Right Torso:
+CLGaussRifle (armored)
+CLGaussRifle (armored)
+CLGaussRifle (armored)
+CLGaussRifle (armored)
+CLGaussRifle (armored)
+CLGaussRifle (armored)
+CLGauss Ammo
+CLGauss Ammo
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+CLGauss Ammo
+Endo-Steel
+
+Head:
+Life Support
+Sensors
+Cockpit
+CLERMediumLaser
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLGauss Ammo
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLGauss Ammo
+Endo-Steel

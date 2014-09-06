@@ -1,0 +1,131 @@
+Version:1.1
+Fluttershy
+FS-0
+
+Config:Biped
+TechBase:Mixed (Clan Chassis)
+Era:0
+Rules Level:4
+
+Mass:70
+Engine:280 XL Fusion Engine (Clan)
+Structure:Endo-Steel
+Gyro:Compact Gyro
+Myomer:Standard
+
+Heat Sinks:15 Double (Clan)
+Walk MP:4
+Jump MP:2
+
+Armor:Standard Armor (Clan)
+LA Armor:22
+RA Armor:22
+LT Armor:23
+RT Armor:23
+CT Armor:33
+HD Armor:9
+LL Armor:30
+RL Armor:30
+RTL Armor:7
+RTR Armor:7
+RTC Armor:11
+
+Weapons:4
+1 ISImprovedC3CPU, Center Torso
+1 CLLRM20, Left Arm, Ammo:42
+1 CLLRM20, Right Arm
+1 CLERPPC, Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ChameleonLightPolarizationField
+CLLRM20
+CLLRM20
+CLLRM20
+CLLRM20
+CLArtemisV
+CLArtemisV
+CLLRM20 Ammo (Clan) Artemis V-capable
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ChameleonLightPolarizationField
+CLLRM20
+CLLRM20
+CLLRM20
+CLLRM20
+CLArtemisV
+CLArtemisV
+CLERPPC
+CLERPPC
+
+Left Torso:
+Engine
+Engine
+ChameleonLightPolarizationField
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLLRM20 Ammo (Clan) Artemis V-capable
+CLLRM20 Ammo (Clan) Artemis V-capable
+CLLRM20 Ammo (Clan) Artemis V-capable
+Endo-Steel
+Endo-Steel
+
+Right Torso:
+Engine
+Engine
+ChameleonLightPolarizationField
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+Endo-Steel
+CLLRM20 Ammo (Clan) Artemis V-capable
+CLLRM20 Ammo (Clan) Artemis V-capable
+Endo-Steel
+Endo-Steel
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISImprovedC3CPU
+ISImprovedC3CPU
+Jump Jet
+Jump Jet
+
+Head:
+Life Support
+Sensors
+Cockpit
+CLLRM20 Ammo (Clan) Artemis V-capable
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ChameleonLightPolarizationField
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ChameleonLightPolarizationField
+Endo-Steel

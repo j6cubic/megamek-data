@@ -1,0 +1,129 @@
+Version:1.1
+Hag
+H3
+
+Config:Biped
+TechBase:Clan
+Era:3070
+Rules Level:2
+
+Mass:100
+Engine:300 XL Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:3
+Jump MP:0
+
+Armor:Ferro-Fibrous
+LA Armor:34
+RA Armor:34
+LT Armor:32
+RT Armor:32
+CT Armor:47
+HD Armor:9
+LL Armor:42
+RL Armor:42
+RTL Armor:10
+RTR Armor:10
+RTC Armor:15
+
+Weapons:3
+1 CLHAG40, Left Arm, Ammo:30
+1 CLHAG40, Right Arm
+1 CLHAG40, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+
+Left Torso:
+Engine
+Engine
+CLHAG40 Ammo
+CLHAG40 Ammo
+CLHAG40 Ammo
+CLHAG40 Ammo
+CLHAG40 Ammo
+CLHAG40 Ammo
+CLHAG40 Ammo
+CLHAG40 Ammo
+CLHAG40 Ammo
+CLHAG40 Ammo
+
+Right Torso:
+Engine
+Engine
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+CLHAG40
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Ferro-Fibrous
+Ferro-Fibrous
+
+Head:
+Life Support
+Sensors
+Cockpit
+Ferro-Fibrous
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+Ferro-Fibrous
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+Ferro-Fibrous

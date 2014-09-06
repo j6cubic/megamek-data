@@ -1,0 +1,128 @@
+Version:1.1
+Contestant
+PPC-IS
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3099
+Rules Level:2
+
+Mass:30
+Engine:180 XL Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:11 Double
+Walk MP:6
+Jump MP:0
+
+Armor:Light Ferro-Fibrous
+LA Armor:7
+RA Armor:7
+LT Armor:10
+RT Armor:10
+CT Armor:12
+HD Armor:9
+LL Armor:10
+RL Armor:10
+RTL Armor:3
+RTR Armor:3
+RTC Armor:3
+
+Weapons:2
+1 ISPPC, Right Arm
+1 ISPPC, Left Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISPPC
+ISPPC
+ISPPC
+-Empty-
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISPPC
+ISPPC
+ISPPC
+-Empty-
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+
+Left Torso:
+Engine
+Engine
+Engine
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+Light Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+
+Right Torso:
+Engine
+Engine
+Engine
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+Light Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Endo-Steel
+Endo-Steel
+
+Head:
+Life Support
+Sensors
+Cockpit
+Light Ferro-Fibrous
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel

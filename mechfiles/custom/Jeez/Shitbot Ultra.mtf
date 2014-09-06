@@ -1,0 +1,129 @@
+Version:1.1
+Shitbot
+Ultra
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Rules Level:5
+
+Mass:100
+Engine:240 Primitive I.C.E.
+Structure:PrimitiveIndustrial
+Cockpit:Primitive Cockpit
+Myomer:Standard
+
+Heat Sinks:2 Single
+Walk MP:2
+Jump MP:0
+
+Armor:Commercial
+LA Armor:34
+RA Armor:34
+LT Armor:32
+RT Armor:32
+CT Armor:47
+HD Armor:9
+LL Armor:42
+RL Armor:42
+RTL Armor:10
+RTR Armor:10
+RTC Armor:15
+
+Weapons:2
+1 ISLightGaussRifle, Right Arm, Ammo:160
+1 ISLightGaussRifle, Left Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISLightGaussRifle
+ISLightGaussRifle
+ISLightGaussRifle
+ISLightGaussRifle
+ISLightGaussRifle
+ISLightGauss Ammo
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISLightGaussRifle
+ISLightGaussRifle
+ISLightGaussRifle
+ISLightGaussRifle
+ISLightGaussRifle
+ISLightGauss Ammo
+-Empty-
+-Empty-
+
+Left Torso:
+ISLightGauss Ammo
+ISLightGauss Ammo
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+ISLightGauss Ammo
+ISLightGauss Ammo
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+-Empty-
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ISLightGauss Ammo
+ISLightGauss Ammo
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ISLightGauss Ammo
+ISLightGauss Ammo

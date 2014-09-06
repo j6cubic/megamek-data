@@ -1,0 +1,84 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Demolisher III
+</Name>
+
+<Model>
+(HAG)
+</Model>
+
+<year>
+2750
+</year>
+
+<type>
+Clan Level 3
+</type>
+
+<tonnage>
+100.0
+</tonnage>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<engine_type>
+2
+</engine_type>
+
+<cruiseMP>
+3
+</cruiseMP>
+
+<armor_type>
+1
+</armor_type>
+
+<armor_tech>
+6
+</armor_tech>
+
+<armor>
+130
+65
+65
+65
+65
+</armor>
+
+<Body Equipment>
+CLCASE
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+CLHAG30
+CLHAG30
+CLHAG30
+</Turret Equipment>
+

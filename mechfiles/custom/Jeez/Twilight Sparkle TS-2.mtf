@@ -1,0 +1,132 @@
+Version:1.1
+Twilight Sparkle
+TS-2
+
+Config:Biped
+TechBase:Mixed (Clan Chassis)
+Era:0
+Rules Level:4
+
+Mass:55
+Engine:330 XXL Fusion Engine (Clan)
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:13 Double (Clan)
+Walk MP:6
+Jump MP:0
+
+Armor:Ferro-Fibrous (Clan)
+LA Armor:11
+RA Armor:11
+LT Armor:14
+RT Armor:14
+CT Armor:17
+HD Armor:9
+LL Armor:13
+RL Armor:13
+RTL Armor:4
+RTR Armor:4
+RTC Armor:5
+
+Weapons:6
+1 ISImprovedC3CPU, Left Torso
+1 CLAngelECM, Right Torso
+1 CLATM9, Right Arm, Ammo:42
+1 CLATM9, Left Arm
+1 CLATM9, Right Arm
+1 ISMediumLaser, Head
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLATM9
+CLATM9
+CLATM9
+CLATM9
+Ferro-Fibrous
+Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLATM9
+CLATM9
+CLATM9
+CLATM9
+CLATM9
+CLATM9
+CLATM9
+CLATM9
+
+Left Torso:
+Engine
+Engine
+Engine
+Engine
+ISImprovedC3CPU
+ISImprovedC3CPU
+CLATM9 Ammo
+CLATM9 ER Ammo
+CLATM9 HE Ammo
+Ferro-Fibrous
+Endo-Steel
+CLCASEII
+
+Right Torso:
+Engine
+Engine
+Engine
+Engine
+CLAngelECM
+CLAngelECM
+CLATM9 Ammo
+CLATM9 ER Ammo
+CLATM9 HE Ammo
+Ferro-Fibrous
+Endo-Steel
+CLCASEII
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Ferro-Fibrous
+Endo-Steel
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISMediumLaser
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+Endo-Steel

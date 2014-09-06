@@ -1,0 +1,140 @@
+Version:1.1
+Longshoreman
+LSM-F2
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3125
+Rules Level:2
+
+Mass:100
+Engine:400 XL Fusion Engine
+Structure:Standard
+Gyro:Compact Gyro
+Myomer:ISMASC
+
+Heat Sinks:20 Double
+Walk MP:4
+Jump MP:4
+
+Armor:Light Ferro-Fibrous
+LA Armor:34
+RA Armor:34
+LT Armor:32
+RT Armor:32
+CT Armor:47
+HD Armor:9
+LL Armor:42
+RL Armor:42
+RTL Armor:10
+RTR Armor:10
+RTC Armor:14
+
+Weapons:13
+1 ISFlamer, Right Torso
+1 ISFlamer, Left Torso
+1 ISFlamer, Left Arm
+1 ISFlamer, Right Arm
+1 ISFlamer, Left Arm
+1 ISFlamer, Right Arm
+1 ISFlamer, Left Torso
+1 ISFlamer, Right Torso
+1 ISFlamer, Left Arm
+1 ISFlamer, Right Arm
+1 ISFlamer, Left Torso
+1 ISFlamer, Right Torso
+1 ISC3SlaveUnit, Head
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISFlamer
+ISFlamer
+ISFlamer
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISFlamer
+ISFlamer
+ISFlamer
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+
+Left Torso:
+Engine
+Engine
+Engine
+ISFlamer
+ISFlamer
+ISFlamer
+ISMASC
+ISMASC
+ISMASC
+ISMASC
+ISMASC
+Light Ferro-Fibrous
+
+Right Torso:
+Engine
+Engine
+Engine
+ISFlamer
+ISFlamer
+ISFlamer
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Engine
+Engine
+Engine
+-Empty-
+-Empty-
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISC3SlaveUnit
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet

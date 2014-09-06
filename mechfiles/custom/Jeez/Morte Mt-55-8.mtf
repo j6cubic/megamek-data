@@ -1,0 +1,149 @@
+Version:1.0
+Morte
+Mt-55-8
+
+Config:Biped
+TechBase:Inner Sphere
+Era:0
+Rules Level:4
+
+Mass:55
+Engine:275 XL Engine(IS)
+Structure:Endo-Composite
+Myomer:Standard
+
+Heat Sinks:13 Double
+Walk MP:5
+Jump MP:0
+
+Armor:Ferro-Fibrous(Inner Sphere)
+LA Armor:11
+RA Armor:11
+LT Armor:15
+RT Armor:15
+CT Armor:16
+HD Armor:9
+LL Armor:13
+RL Armor:13
+RTL Armor:4
+RTR Armor:4
+RTC Armor:5
+
+Weapons:3
+Mortar 8, Left Arm
+Mortar 8, Right Arm
+Medium Laser, Head
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+IS Mech Mortar-8
+IS Mech Mortar-8
+IS Mech Mortar-8
+IS Mech Mortar-8
+IS Mech Mortar-8
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Endo-Composite
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+IS Mech Mortar-8
+IS Mech Mortar-8
+IS Mech Mortar-8
+IS Mech Mortar-8
+IS Mech Mortar-8
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Endo-Composite
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+Ferro-Fibrous
+Ferro-Fibrous
+Endo-Composite
+ISCASEII
+IS Ammo AP Mortar-8
+IS Ammo AP Mortar-8
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+Ferro-Fibrous
+Ferro-Fibrous
+Endo-Composite
+ISCASEII
+IS Ammo AP Mortar-8
+IS Ammo AP Mortar-8
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Ferro-Fibrous
+Endo-Composite
+
+Head:
+Life Support
+Sensors
+Cockpit
+Medium Laser
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+Endo-Composite
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+Endo-Composite
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

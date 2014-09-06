@@ -1,0 +1,78 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+SPEED YEAH
+</Name>
+
+<Model>
+OH YEAH!
+</Model>
+
+<year>
+2750
+</year>
+
+<type>
+Clan Level 4
+</type>
+
+<tonnage>
+5.0
+</tonnage>
+
+<motion_type>
+Hover
+</motion_type>
+
+<engine_type>
+2
+</engine_type>
+
+<cruiseMP>
+25
+</cruiseMP>
+
+<armor_type>
+1
+</armor_type>
+
+<armor_tech>
+8
+</armor_tech>
+
+<armor>
+4
+2
+2
+1
+</armor>
+
+<Body Equipment>
+CLMASC
+</Body Equipment>
+
+<Front Equipment>
+CLERSmallLaser
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+

@@ -1,0 +1,155 @@
+Version:1.1
+Testbed
+Test-1
+
+Config:Biped
+TechBase:Mixed (Clan Chassis)
+Era:2750
+Rules Level:4
+
+Mass:100
+Engine:300 Fusion (Clan) Engine
+Structure:Standard
+Myomer:Standard
+Cockpit:Standard Cockpit
+Gyro:Compact Gyro
+
+Heat Sinks:15 Double
+Walk MP:3
+Jump MP:0
+
+Armor:Standard(Clan)
+LA Armor:34
+RA Armor:34
+LT Armor:32
+RT Armor:32
+CT Armor:47
+HD Armor:9
+LL Armor:42
+RL Armor:42
+RTL Armor:10
+RTR Armor:10
+RTC Armor:15
+
+Weapons:7
+Fluid Gun, Left Arm
+Heavy Rifle, Left Arm
+LAC/5, Left Arm
+Mech Taser, Right Arm
+Nail Gun, Left Arm
+Rivet Gun, Right Arm
+Mortar 8, Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLNail Gun
+Heavy Rifle
+Heavy Rifle
+Heavy Rifle
+Light Auto Cannon/5
+Light Auto Cannon/5
+Clan Fluid Gun
+Clan Fluid Gun
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLRivet Gun
+Mek Taser
+Mek Taser
+Mek Taser
+Clan Mech Mortar-8
+Clan Mech Mortar-8
+Clan Mech Mortar-8
+-Empty-
+
+Left Torso:
+CLCASEII
+CLFluidGun Ammo
+Clan Ammo AP Mortar-8
+IS Incendiary Ammo LAC/5
+IS Ammo Heavy Rifle
+Taser Ammo
+CL Ammo Nail/Rivet - Full
+CLDoubleHeatSink
+CLDoubleHeatSink
+Spikes
+-Empty-
+-Empty-
+
+Right Torso:
+CLCASEII
+CLFluidGun Ammo
+Clan Ammo AP Mortar-8
+IS Precision Ammo LAC/5
+IS Ammo Heavy Rifle
+Taser Ammo
+CL Ammo Nail/Rivet - Full
+CLDoubleHeatSink
+CLDoubleHeatSink
+Spikes
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+CLDoubleHeatSink
+CLDoubleHeatSink
+-Empty-
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

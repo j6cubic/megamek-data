@@ -1,0 +1,130 @@
+Version:1.1
+Gnat
+GN2x
+
+Config:Biped
+TechBase:Mixed (Clan Chassis)
+Era:0
+Rules Level:4
+
+Mass:20
+Engine:120 Fusion Engine (Clan)
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:13 Double (Clan)
+Walk MP:6
+Jump MP:0
+
+Armor:Ferro-Fibrous (Clan)
+LA Armor:6
+RA Armor:6
+LT Armor:8
+RT Armor:8
+CT Armor:10
+HD Armor:7
+LL Armor:8
+RL Armor:8
+RTL Armor:2
+RTR Armor:2
+RTC Armor:2
+
+Weapons:4
+1 CLHeavyMediumLaser, Right Arm
+1 CLHeavyMediumLaser, Left Arm
+1 ISMediumLaser, Right Arm
+1 CLMicroPulseLaser, Left Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLHeavyMediumLaser
+CLHeavyMediumLaser
+CLMicroPulseLaser
+-Empty-
+Ferro-Fibrous
+Ferro-Fibrous
+Endo-Steel
+ChameleonLightPolarizationField
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLHeavyMediumLaser
+CLHeavyMediumLaser
+ISMediumLaser
+-Empty-
+-Empty-
+Ferro-Fibrous
+Endo-Steel
+ChameleonLightPolarizationField
+
+Left Torso:
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+Endo-Steel
+ChameleonLightPolarizationField
+
+Right Torso:
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+Ferro-Fibrous
+Ferro-Fibrous
+Endo-Steel
+ChameleonLightPolarizationField
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Ferro-Fibrous
+Endo-Steel
+
+Head:
+Life Support
+Sensors
+Cockpit
+Ferro-Fibrous
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+ChameleonLightPolarizationField
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+ChameleonLightPolarizationField

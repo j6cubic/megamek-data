@@ -1,0 +1,117 @@
+Version:1.1
+4xG
+4xG 2HG
+
+Config:Quad
+TechBase:Inner Sphere
+Era:2750
+Rules Level:3
+
+Mass:100
+Engine:300 Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:10 Single
+Walk MP:3
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:41
+RA Armor:41
+LT Armor:31
+RT Armor:31
+CT Armor:48
+HD Armor:9
+LL Armor:42
+RL Armor:42
+RTL Armor:11
+RTR Armor:11
+RTC Armor:13
+
+Weapons:3
+1 ISHeavyGaussRifle, Right Torso, Ammo:32
+1 ISHeavyGaussRifle, Left Torso
+1 ISMediumLaser, Head
+
+Left Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Heavy Gauss Rifle Ammo
+-Empty-
+
+Right Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Heavy Gauss Rifle Ammo
+-Empty-
+
+Left Torso:
+ISHeavyGaussRifle
+ISHeavyGaussRifle
+ISHeavyGaussRifle
+ISHeavyGaussRifle
+ISHeavyGaussRifle
+ISHeavyGaussRifle
+ISHeavyGaussRifle
+ISHeavyGaussRifle
+ISHeavyGaussRifle
+ISHeavyGaussRifle
+ISHeavyGaussRifle
+IS Heavy Gauss Rifle Ammo
+
+Right Torso:
+ISHeavyGaussRifle
+ISHeavyGaussRifle
+ISHeavyGaussRifle
+ISHeavyGaussRifle
+ISHeavyGaussRifle
+ISHeavyGaussRifle
+ISHeavyGaussRifle
+ISHeavyGaussRifle
+ISHeavyGaussRifle
+ISHeavyGaussRifle
+ISHeavyGaussRifle
+IS Heavy Gauss Rifle Ammo
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+IS Heavy Gauss Rifle Ammo
+IS Heavy Gauss Rifle Ammo
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISMediumLaser
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Heavy Gauss Rifle Ammo
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Heavy Gauss Rifle Ammo
+-Empty-

@@ -1,0 +1,133 @@
+Version:1.1
+Atmos
+12
+
+Config:Biped
+TechBase:Clan
+Era:3100
+Rules Level:2
+
+Mass:100
+Engine:300 Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:18 Double
+Walk MP:3
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:28
+RA Armor:28
+LT Armor:27
+RT Armor:27
+CT Armor:41
+HD Armor:9
+LL Armor:36
+RL Armor:36
+RTL Armor:9
+RTR Armor:9
+RTC Armor:13
+
+Weapons:7
+1 CLECMSuite, Head
+1 CLERMicroLaser, Right Arm
+1 CLERMicroLaser, Left Arm
+1 CLATM12, Right Torso, Ammo:55
+1 CLATM12, Right Arm
+1 CLATM12, Left Arm
+1 CLATM12, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLERMicroLaser
+CLATM12
+CLATM12
+CLATM12
+CLATM12
+CLATM12
+CLDouble Heat Sink
+CLDouble Heat Sink
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLERMicroLaser
+CLATM12
+CLATM12
+CLATM12
+CLATM12
+CLATM12
+CLDouble Heat Sink
+CLDouble Heat Sink
+
+Left Torso:
+CLATM12
+CLATM12
+CLATM12
+CLATM12
+CLATM12
+CLATM12 Ammo
+CLATM12 Ammo
+CLATM12 HE Ammo
+CLATM12 HE Ammo
+CLATM12 ER Ammo
+CLDouble Heat Sink
+CLDouble Heat Sink
+
+Right Torso:
+CLATM12
+CLATM12
+CLATM12
+CLATM12
+CLATM12
+CLATM12 Ammo
+CLATM12 Ammo
+CLATM12 HE Ammo
+CLATM12 HE Ammo
+CLATM12 ER Ammo
+CLDouble Heat Sink
+CLDouble Heat Sink
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+CLATM12 ER Ammo
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+CLECMSuite
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDouble Heat Sink
+CLDouble Heat Sink
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDouble Heat Sink
+CLDouble Heat Sink

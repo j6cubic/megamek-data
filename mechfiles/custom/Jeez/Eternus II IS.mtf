@@ -1,0 +1,146 @@
+Version:1.1
+Eternus II
+IS
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3080
+Rules Level:5
+
+Mass:100
+Engine:300 Compact Engine
+Structure:Standard
+Gyro:Compact Gyro
+Myomer:Standard
+
+Heat Sinks:21 Double
+Walk MP:3
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:34
+RA Armor:34
+LT Armor:32
+RT Armor:32
+CT Armor:47
+HD Armor:9
+LL Armor:42
+RL Armor:42
+RTL Armor:10
+RTR Armor:10
+RTC Armor:15
+
+Weapons:19
+1 ISAngelECM, Center Torso
+1 ISLaserAntiMissileSystem, Right Torso
+1 ISLaserAntiMissileSystem, Right Leg
+1 ISLaserAntiMissileSystem, Left Leg
+1 ISLaserAntiMissileSystem, Left Torso
+1 ISLightPPC, Left Arm
+1 ISLightPPC, Right Arm
+1 ISERMediumLaser, Left Arm
+1 ISERMediumLaser, Right Arm
+1 ISMediumLaser, Left Arm
+1 ISMediumLaser, Right Arm
+1 ISSmallLaser, Left Torso
+1 ISSmallLaser, Right Torso
+1 ISMediumLaser, Center Torso
+1 ISMediumLaser, Head
+1 ISMediumLaser, Center Torso
+1 ISSmallLaser, Right Arm
+1 ISSmallLaser, Left Arm
+1 ISSmallLaser, Left Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISLightPPC
+ISLightPPC
+ISERMediumLaser
+ISMediumLaser
+ISSmallLaser
+ISSmallLaser
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISLightPPC
+ISLightPPC
+ISMediumLaser
+ISERMediumLaser
+ISSmallLaser
+
+Left Torso:
+ISLaserAntiMissileSystem
+ISLaserAntiMissileSystem
+ISSmallLaser
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+
+Right Torso:
+ISLaserAntiMissileSystem
+ISLaserAntiMissileSystem
+ISSmallLaser
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+ISMediumLaser
+ISMediumLaser
+ISAngelECM
+ISAngelECM
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISMediumLaser
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ISLaserAntiMissileSystem
+ISLaserAntiMissileSystem
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ISLaserAntiMissileSystem
+ISLaserAntiMissileSystem

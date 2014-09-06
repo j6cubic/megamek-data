@@ -1,0 +1,120 @@
+Version:1.1
+Runner
+FLAMEDOGGY
+
+Config:Quad
+TechBase:Mixed (Clan Chassis)
+Era:2750
+Rules Level:4
+
+Mass:35
+Engine:280 XL Fusion Engine (Clan)
+Structure:Endo-Steel
+Gyro:Compact Gyro
+Myomer:Standard
+
+Heat Sinks:13 Double (Clan)
+Walk MP:8
+Jump MP:0
+
+Armor:Ferro-Fibrous (Clan)
+LA Armor:16
+RA Armor:16
+LT Armor:10
+RT Armor:10
+CT Armor:14
+HD Armor:9
+LL Armor:16
+RL Armor:16
+RTL Armor:6
+RTR Armor:6
+RTC Armor:8
+
+Weapons:5
+1 CLHeavyFlamer, Right Torso
+1 CLHeavyFlamer, Head
+1 CLHeavyFlamer, Left Torso
+1 CLHeavyFlamer, Right Torso
+1 CLHeavyFlamer, Left Torso
+
+Left Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+
+Right Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+Endo-Steel
+
+Left Torso:
+Engine
+Engine
+CLHeavyFlamer
+CLHeavyFlamer
+Endo-Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+Ferro-Fibrous
+Ferro-Fibrous
+
+Right Torso:
+Engine
+Engine
+CLHeavyFlamer
+CLHeavyFlamer
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+Ferro-Fibrous
+Ferro-Fibrous
+Endo-Steel
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Engine
+Engine
+Engine
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+
+Head:
+Life Support
+Sensors
+Cockpit
+CLHeavyFlamer
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+Endo-Steel

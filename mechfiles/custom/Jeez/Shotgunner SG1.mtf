@@ -1,0 +1,131 @@
+Version:1.1
+Shotgunner
+SG1
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Rules Level:2
+
+Mass:100
+Engine:300 XL Fusion Engine
+Structure:Standard
+Gyro:Compact Gyro
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:3
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:30
+RA Armor:30
+LT Armor:31
+RT Armor:31
+CT Armor:46
+HD Armor:9
+LL Armor:38
+RL Armor:38
+RTL Armor:10
+RTR Armor:10
+RTC Armor:10
+
+Weapons:4
+1 ISLBXAC10, Left Arm, Ammo:110
+1 ISLBXAC10, Right Torso
+1 ISLBXAC10, Right Arm
+1 ISLBXAC10, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+-Empty-
+-Empty-
+
+Left Torso:
+Engine
+Engine
+Engine
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10 CL Ammo
+ISLBXAC10 CL Ammo
+ISLBXAC10 CL Ammo
+
+Right Torso:
+Engine
+Engine
+Engine
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10 CL Ammo
+ISLBXAC10 CL Ammo
+ISLBXAC10 CL Ammo
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISLBXAC10 CL Ammo
+ISLBXAC10 CL Ammo
+ISLBXAC10 CL Ammo
+ISLBXAC10 CL Ammo
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISLBXAC10 CL Ammo
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-

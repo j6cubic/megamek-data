@@ -1,0 +1,120 @@
+Version:1.1
+Walking Wall
+BIGBANGDOGGY
+
+Config:Quad
+TechBase:Mixed (Clan Chassis)
+Era:2750
+Rules Level:4
+
+Mass:100
+Engine:300 Fusion Engine (Clan)
+Structure:Endo-Steel
+Gyro:Compact Gyro
+Cockpit:Torso-Mounted Cockpit
+Myomer:Standard
+
+Heat Sinks:10 Double (Clan)
+Walk MP:3
+Jump MP:0
+
+Armor:Standard Armor (Clan)
+LA Armor:39
+RA Armor:39
+LT Armor:26
+RT Armor:26
+CT Armor:41
+HD Armor:9
+LL Armor:39
+RL Armor:39
+RTL Armor:16
+RTR Armor:16
+RTC Armor:21
+
+Weapons:4
+1 ISImprovedHeavyGaussRifle, Left Torso, Ammo:8
+1 CLGaussRifle, Right Torso, Ammo:8
+1 CLUltraAC2, Head, Ammo:90
+1 CLUltraAC2, Head
+
+Left Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+
+Right Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+-Empty-
+
+Left Torso:
+Life Support
+ISImprovedHeavyGaussRifle
+ISImprovedHeavyGaussRifle
+ISImprovedHeavyGaussRifle
+ISImprovedHeavyGaussRifle
+ISImprovedHeavyGaussRifle
+ISImprovedHeavyGaussRifle
+ISImprovedHeavyGaussRifle
+ISImprovedHeavyGaussRifle
+ISImprovedHeavyGaussRifle
+ISImprovedHeavyGaussRifle
+ISImprovedHeavyGaussRifle
+
+Right Torso:
+Life Support
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+CLUltraAC2 Ammo
+CLUltraAC2 Ammo
+CLGauss Ammo
+IS Improved Heavy Gauss Rifle Ammo
+CLCASEII
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Cockpit
+Sensors
+IS Improved Heavy Gauss Rifle Ammo
+CLCASEII
+
+Head:
+Sensors
+Sensors
+CLUltraAC2
+CLUltraAC2
+CLUltraAC2
+CLUltraAC2
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel

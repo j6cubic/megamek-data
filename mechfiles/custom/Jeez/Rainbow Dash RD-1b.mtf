@@ -1,0 +1,137 @@
+Version:1.1
+Rainbow Dash
+RD-1b
+
+Config:Biped
+TechBase:Clan
+Era:0
+Rules Level:4
+
+Mass:30
+Engine:300 XXL Fusion Engine
+Structure:Endo-Steel
+Myomer:CLMASC
+
+Heat Sinks:11 Double
+Walk MP:10
+Jump MP:5
+
+Armor:Ferro-Fibrous
+LA Armor:9
+RA Armor:9
+LT Armor:10
+RT Armor:10
+CT Armor:13
+HD Armor:9
+LL Armor:12
+RL Armor:12
+RTL Armor:4
+RTR Armor:4
+RTC Armor:4
+
+Weapons:11
+1 ISSmallLaser, Left Arm
+1 ISSmallLaser, Left Arm
+1 ISSmallLaser, Left Arm
+1 ISSmallLaser, Left Arm
+1 ISSmallLaser, Left Arm
+1 ISSmallLaser, Right Arm
+1 ISSmallLaser, Right Arm
+1 ISSmallLaser, Right Arm
+1 ISSmallLaser, Right Arm
+1 ISSmallLaser, Right Arm
+1 ISSmallLaser, Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISSmallLaser
+ISSmallLaser
+ISSmallLaser
+ISSmallLaser
+ISSmallLaser
+-Empty-
+Ferro-Fibrous
+Endo-Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISSmallLaser
+ISSmallLaser
+ISSmallLaser
+ISSmallLaser
+ISSmallLaser
+ISSmallLaser
+Ferro-Fibrous
+Endo-Steel
+
+Left Torso:
+Engine
+Engine
+Engine
+Engine
+Jump Jet
+-Empty-
+-Empty-
+-Empty-
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Endo-Steel
+
+Right Torso:
+Engine
+Engine
+Engine
+Engine
+Jump Jet
+-Empty-
+-Empty-
+-Empty-
+Ferro-Fibrous
+Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+CL Super Charger
+Jump Jet
+
+Head:
+Life Support
+Sensors
+Cockpit
+CLMASC
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Endo-Steel

@@ -1,0 +1,123 @@
+Version:1.1
+Tom
+Tom Tom Tom
+
+Config:Quad
+TechBase:Mixed (Clan Chassis)
+Era:2750
+Rules Level:4
+
+Mass:100
+Engine:200 Compact Fusion Engine (Inner Sphere)
+Structure:Reinforced
+Gyro:Compact Gyro
+Cockpit:Torso-Mounted Cockpit
+Myomer:Standard
+
+Heat Sinks:15 Double (Clan)
+Walk MP:2
+Jump MP:0
+
+Armor:Hardened (Clan)
+LA Armor:42
+RA Armor:42
+LT Armor:32
+RT Armor:32
+CT Armor:47
+HD Armor:9
+LL Armor:42
+RL Armor:42
+RTL Armor:10
+RTR Armor:10
+RTC Armor:15
+
+Weapons:7
+1 CLAngelECM, Center Torso
+1 CLERMediumLaser, Left Torso
+1 CLERMediumLaser, Head
+1 CLERMediumLaser, Right Torso
+1 CLERMediumLaser, Left Torso
+1 CLERMediumLaser, Right Torso
+1 CLERSmallLaser, Center Torso
+
+Left Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Left Torso:
+Life Support (armored)
+CLERMediumLaser
+CLERMediumLaser
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+Life Support (armored)
+CLERMediumLaser
+CLERMediumLaser
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Engine (armored)
+Engine (armored)
+Engine (armored)
+Gyro (armored)
+Gyro (armored)
+Cockpit (armored)
+Sensors (armored)
+CLAngelECM
+CLAngelECM
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLERSmallLaser
+
+Head:
+Sensors (armored)
+Sensors (armored)
+CLERMediumLaser
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip (armored)
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Leg:
+Hip (armored)
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-

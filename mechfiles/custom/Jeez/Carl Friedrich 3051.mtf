@@ -1,0 +1,130 @@
+Version:1.1
+Carl Friedrich
+3051
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3051
+Rules Level:2
+
+Mass:100
+Engine:100 XL Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:10 Single
+Walk MP:1
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:31
+RA Armor:31
+LT Armor:31
+RT Armor:31
+CT Armor:49
+HD Armor:9
+LL Armor:40
+RL Armor:40
+RTL Armor:11
+RTR Armor:11
+RTC Armor:12
+
+Weapons:4
+1 ISGaussRifle, Right Arm, Ammo:48
+1 ISGaussRifle, Left Torso
+1 ISGaussRifle, Left Arm
+1 ISGaussRifle, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGauss Ammo
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGauss Ammo
+
+Left Torso:
+Engine
+Engine
+Engine
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+Heat Sink
+Heat Sink
+
+Right Torso:
+Engine
+Engine
+Engine
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+Heat Sink
+Heat Sink
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISGauss Ammo
+ISGauss Ammo
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ISGauss Ammo
+Heat Sink
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ISGauss Ammo
+Heat Sink

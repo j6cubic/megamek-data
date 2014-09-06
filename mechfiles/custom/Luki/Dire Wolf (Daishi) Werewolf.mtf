@@ -1,0 +1,132 @@
+Version:1.1
+Dire Wolf (Daishi)
+Werewolf
+
+Config:Biped
+TechBase:Mixed (Clan Chassis)
+Era:3070
+Rules Level:4
+
+Mass:100
+Engine:300 Fusion Engine (Clan)
+Structure:Endo-Steel
+Myomer:Triple Strength Myomer
+
+Heat Sinks:17 Double (Clan)
+Walk MP:3
+Jump MP:0
+
+Armor:Standard Armor (Clan)
+LA Armor:28
+RA Armor:28
+LT Armor:31
+RT Armor:31
+CT Armor:42
+HD Armor:9
+LL Armor:35
+RL Armor:35
+RTL Armor:11
+RTR Armor:11
+RTC Armor:11
+
+Weapons:6
+1 CLGaussRifle, Right Arm, Ammo:40
+1 CLGaussRifle, Left Arm
+1 CLHeavyLargeLaser, Right Arm
+1 CLHeavyLargeLaser, Left Arm
+1 CLMediumPulseLaser, Right Torso
+1 Talons, Left Leg
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+CLHeavyLargeLaser
+CLHeavyLargeLaser
+CLHeavyLargeLaser
+CLGauss Ammo
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+CLHeavyLargeLaser
+CLHeavyLargeLaser
+CLHeavyLargeLaser
+CLGauss Ammo
+
+Left Torso:
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLGauss Ammo
+CLGauss Ammo
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Triple Strength Myomer
+Triple Strength Myomer
+Triple Strength Myomer
+
+Right Torso:
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLMediumPulseLaser
+CLGauss Ammo
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Triple Strength Myomer
+Triple Strength Myomer
+Triple Strength Myomer
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+CLDouble Heat Sink
+CLDouble Heat Sink
+
+Head:
+Life Support
+Sensors
+Cockpit
+Endo-Steel
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Talons
+Talons
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Talons
+Talons

@@ -1,0 +1,133 @@
+Version:1.1
+Overhotter
+S7-HOTT
+
+Config:Biped
+TechBase:Clan
+Era:3070
+Rules Level:3
+
+Mass:100
+Engine:400 XL Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:24 Double
+Walk MP:4
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:34
+RA Armor:34
+LT Armor:32
+RT Armor:32
+CT Armor:47
+HD Armor:9
+LL Armor:42
+RL Armor:42
+RTL Armor:10
+RTR Armor:10
+RTC Armor:15
+
+Weapons:7
+1 CLPlasmaCannon, Right Arm, Ammo:40
+1 CLPlasmaCannon, Head
+1 CLPlasmaCannon, Left Arm
+1 CLERLargeLaser, Right Arm
+1 CLERLargeLaser, Left Arm
+1 CLECMSuite, Center Torso
+1 CLLRM10 (iOS), Center Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLPlasmaCannon
+CLERLargeLaser
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+-Empty-
+Endo-Steel
+Endo-Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLPlasmaCannon
+CLERLargeLaser
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+-Empty-
+Endo-Steel
+
+Left Torso:
+Engine
+Engine
+CLPlasmaCannon Ammo
+CLPlasmaCannon Ammo
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+CLDouble Heat Sink
+CLDouble Heat Sink
+-Empty-
+Endo-Steel
+
+Right Torso:
+Engine
+Engine
+CLPlasmaCannon Ammo
+CLPlasmaCannon Ammo
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+-Empty-
+Endo-Steel
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+CLECMSuite
+CLLRM10 (iOS)
+
+Head:
+Life Support
+Sensors
+Cockpit
+CLPlasmaCannon
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+Endo-Steel

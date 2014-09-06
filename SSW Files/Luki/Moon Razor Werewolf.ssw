@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Moon Razor" model="Werewolf" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>3119</battle_value>
+    <cost>1.373E7</cost>
+    <rules_level>3</rules_level>
+    <era>4</era>
+    <productionera>0</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Mixed</techbase>
+    <year restricted="FALSE">3055</year>
+    <motive_type>Quad</motive_type>
+    <structure manufacturer="Unknown" techbase="2">
+        <type>Standard Structure</type>
+    </structure>
+    <engine rating="300" manufacturer="Unknown" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <enhancement techbase="0">
+        <type>TSM</type>
+        <location index="0">RT</location>
+        <location index="3">HD</location>
+        <location index="3">RT</location>
+        <location index="8">RT</location>
+        <location index="10">CT</location>
+        <location index="11">CT</location>
+    </enhancement>
+    <armor manufacturer="Unknown" techbase="2">
+        <type>Patchwork Armor</type>
+        <hd type="Hardened Armor" techbase="2">9</hd>
+        <ct type="Hardened Armor" techbase="2">44</ct>
+        <ctr>16</ctr>
+        <lt type="Hardened Armor" techbase="2">29</lt>
+        <ltr>11</ltr>
+        <rt type="Hardened Armor" techbase="2">29</rt>
+        <rtr>11</rtr>
+        <la type="Standard Armor" techbase="2">42</la>
+        <ra type="Standard Armor" techbase="2">42</ra>
+        <ll type="Standard Armor" techbase="2">42</ll>
+        <rl type="Standard Armor" techbase="2">42</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source></source>
+        <info>Moon Razor Werewolf 100t, 3[4]/5[6]/0 TSM, Std FE, Std Quad; 31.0T/98% Armor; 10 DHS; 1 Talons, 1 HAG30, 1 HLL, 1 HML, TC</info>
+        <battleforce pv="31" wt="4" mv="3" s="4" m="4" l="2" e="0" ov="0" armor="11" internal="8" abilities="TSM, MEL, CASE, SRCH, ES, SEAL, SOA, FLK 2/1/1" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="10" techbase="1">
+            <type>Double Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Large Laser</name>
+            <type>energy</type>
+            <location index="9">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Talons</name>
+            <type>physical</type>
+            <location index="4">RRL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Hyper Assault Gauss 30</name>
+            <type>ballistic</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 30</name>
+            <type>ammunition</type>
+            <location index="0">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 30</name>
+            <type>ammunition</type>
+            <location index="1">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 30</name>
+            <type>ammunition</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 30</name>
+            <type>ammunition</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="1">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="4">RT</location>
+        </equipment>
+        <armored_locations>
+            <location index="4">FLL</location>
+            <location index="5">FLL</location>
+            <location index="4">FRL</location>
+            <location index="5">FRL</location>
+            <location index="4">RLL</location>
+            <location index="5">RLL</location>
+            <location index="4">RRL</location>
+            <location index="5">RRL</location>
+        </armored_locations>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

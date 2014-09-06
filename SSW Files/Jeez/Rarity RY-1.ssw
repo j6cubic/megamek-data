@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Rarity" model="RY-1" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1808</battle_value>
+    <cost>5523875.0</cost>
+    <rules_level>3</rules_level>
+    <era>4</era>
+    <productionera>0</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Mixed</techbase>
+    <year restricted="FALSE">0</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="1">
+        <type>Endo-Steel</type>
+        <location index="7">LT</location>
+        <location index="7">RT</location>
+        <location index="8">LT</location>
+        <location index="8">RT</location>
+        <location index="9">LT</location>
+        <location index="9">LA</location>
+        <location index="9">RA</location>
+    </structure>
+    <engine rating="250" manufacturer="Unknown" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <enhancement techbase="0">
+        <type>TSM</type>
+        <location index="10">CT</location>
+        <location index="11">CT</location>
+        <location index="11">LT</location>
+        <location index="11">RT</location>
+        <location index="11">LA</location>
+        <location index="11">RA</location>
+    </enhancement>
+    <armor manufacturer="Unknown" techbase="1">
+        <type>Laser-Reflective</type>
+        <hd>9</hd>
+        <ct>24</ct>
+        <ctr>7</ctr>
+        <lt>18</lt>
+        <ltr>6</ltr>
+        <rt>18</rt>
+        <rtr>6</rtr>
+        <la>16</la>
+        <ra>16</ra>
+        <ll>24</ll>
+        <rl>24</rl>
+        <location index="9">RT</location>
+        <location index="10">LT</location>
+        <location index="10">RT</location>
+        <location index="10">LA</location>
+        <location index="10">RA</location>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source></source>
+        <info>Rarity RY-1 50t, 5[6]/8[9]/0 TSM, Std FE, ES; 10.5T/99% LsrRflc Armor; 12 LHS; 1 Talons, 8 SPL, 1 ERSL, 2 MPL</info>
+        <battleforce pv="18" wt="2" mv="5" s="5" m="5" l="0" e="0" ov="0" armor="4" internal="4" abilities="TSM, MEL, ENE, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="12" techbase="1">
+            <type>Laser Heat Sink</type>
+
+            <location index="0">RT</location>
+            <location index="0">LT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">Talons</name>
+            <type>physical</type>
+            <location index="4">RL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Small Pulse Laser</name>
+            <type>energy</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Small Pulse Laser</name>
+            <type>energy</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Small Pulse Laser</name>
+            <type>energy</type>
+            <location index="7">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Small Pulse Laser</name>
+            <type>energy</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Small Pulse Laser</name>
+            <type>energy</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Small Pulse Laser</name>
+            <type>energy</type>
+            <location index="7">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Small Pulse Laser</name>
+            <type>energy</type>
+            <location index="8">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Small Pulse Laser</name>
+            <type>energy</type>
+            <location index="8">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="3">HD</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

@@ -1,0 +1,129 @@
+Version:1.1
+Beat-M-Up
+BMU1
+
+Config:Biped
+TechBase:Clan
+Era:3114
+Rules Level:4
+
+Mass:50
+Engine:400 XXL Engine
+Structure:Endo-Steel
+Myomer:CLMASC
+
+Heat Sinks:10 Double
+Walk MP:8
+Jump MP:4
+
+Armor:Ferro-Fibrous
+LA Armor:16
+RA Armor:16
+LT Armor:18
+RT Armor:18
+CT Armor:24
+HD Armor:9
+LL Armor:24
+RL Armor:24
+RTL Armor:6
+RTR Armor:6
+RTC Armor:8
+
+Weapons:3
+1 Talons, Left Leg
+1 WreckingBall, Right Arm
+1 CLAngelECM, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Endo-Steel
+Endo-Steel
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+WreckingBall
+WreckingBall
+WreckingBall
+WreckingBall
+WreckingBall
+-Empty-
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Left Torso:
+Engine
+Engine
+Engine
+Engine
+Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+CLMASC
+CLMASC
+Endo-Steel
+
+Right Torso:
+Engine
+Engine
+Engine
+Engine
+Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+CLAngelECM
+CLAngelECM
+Endo-Steel
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Jump Jet
+Jump Jet
+
+Head:
+Life Support
+Sensors
+Cockpit
+Ferro-Fibrous
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Talons
+Talons
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Talons
+Talons

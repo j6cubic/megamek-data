@@ -1,0 +1,137 @@
+Version:1.1
+Iron Will
+IW-3
+
+Config:Biped
+TechBase:Mixed (Clan Chassis)
+Era:0
+Rules Level:4
+
+Mass:100
+Engine:300 Compact Fusion Engine (Inner Sphere)
+Structure:Endo-Steel
+Gyro:Compact Gyro
+Myomer:Standard
+
+Heat Sinks:21 Double (Clan)
+Walk MP:3
+Jump MP:0
+
+Armor:Standard Armor (Clan)
+LA Armor:33
+RA Armor:33
+LT Armor:31
+RT Armor:31
+CT Armor:48
+HD Armor:9
+LL Armor:42
+RL Armor:42
+RTL Armor:11
+RTR Armor:11
+RTC Armor:13
+
+Weapons:10
+1 CLSRM6, Left Arm, Ammo:120
+1 CLSRM6, Left Arm
+1 CLSRM6, Left Arm
+1 CLSRM6, Left Arm
+1 CLSRM6, Left Arm
+1 CLSRM6, Right Arm
+1 CLSRM6, Right Arm
+1 CLSRM6, Right Arm
+1 CLSRM6, Right Arm
+1 CLSRM6, Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLSRM6
+CLSRM6
+CLSRM6
+CLSRM6
+CLSRM6
+Endo-Steel
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLSRM6
+CLSRM6
+CLSRM6
+CLSRM6
+CLSRM6
+Endo-Steel
+-Empty-
+-Empty-
+
+Left Torso:
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLSRM6 Ammo
+CLSRM6 Ammo
+CLSRM6 Ammo
+CLSRM6 Ammo
+-Empty-
+CLCASEII
+
+Right Torso:
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLSRM6 Ammo
+CLSRM6 Ammo
+CLSRM6 Ammo
+CLSRM6 Ammo
+-Empty-
+CLCASEII
+
+Center Torso:
+Engine (armored)
+Engine (armored)
+Engine (armored)
+Gyro (armored)
+Gyro (armored)
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+-Empty-
+
+Head:
+Life Support (armored)
+Sensors
+Cockpit (armored)
+Endo-Steel
+Sensors (armored)
+Life Support (armored)
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel

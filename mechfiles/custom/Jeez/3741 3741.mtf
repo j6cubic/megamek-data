@@ -1,0 +1,136 @@
+Version:1.1
+3741
+3741
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Rules Level:4
+
+Mass:100
+Engine:400 XXL Fusion Engine
+Structure:Standard
+Gyro:Compact Gyro
+Cockpit:Torso-Mounted Cockpit
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:4
+Jump MP:0
+
+Armor:Hardened
+LA Armor:33
+RA Armor:33
+LT Armor:31
+RT Armor:31
+CT Armor:48
+HD Armor:9
+LL Armor:42
+RL Armor:42
+RTL Armor:11
+RTR Armor:11
+RTC Armor:13
+
+Weapons:8
+1 ISGuardianECM, Right Torso
+1 IS, Left Arm
+1 ISHarJel, Head
+1 ISStandardFluidSuctionSystem, Right Arm
+1 ISChaffPod, Head
+1 ISMPod, Head
+1 ISBPod, Head
+1 ISHVAC2, Right Arm, Ammo:90
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISHVAC2 Ammo
+ISHVAC2 Ammo
+ISHVAC2 Ammo
+-Empty-
+IS
+ISCASEII
+VoidSignatureSystem
+BlueShieldPFD
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+-Empty-
+ISStandardFluidSuctionSystem
+ISHVAC2
+ISHVAC2
+-Empty-
+-Empty-
+VoidSignatureSystem
+BlueShieldPFD
+
+Left Torso:
+Engine
+Engine
+Engine
+Engine
+Engine
+Engine
+Life Support
+-Empty-
+-Empty-
+-Empty-
+VoidSignatureSystem
+BlueShieldPFD
+
+Right Torso:
+Engine
+Engine
+Engine
+Engine
+Engine
+Engine
+Life Support
+IS Super Charger
+ISGuardianECM
+ISGuardianECM
+VoidSignatureSystem
+BlueShieldPFD
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Cockpit
+Sensors
+VoidSignatureSystem
+BlueShieldPFD
+
+Head:
+Sensors
+Sensors
+ISHarJel
+ISChaffPod
+ISMPod
+ISBPod
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+VoidSignatureSystem
+BlueShieldPFD
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+VoidSignatureSystem
+BlueShieldPFD

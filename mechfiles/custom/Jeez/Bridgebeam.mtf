@@ -1,0 +1,118 @@
+Version:1.1
+Bridgebeam
+
+
+Config:Quad
+TechBase:Inner Sphere
+Era:3070
+Rules Level:4
+
+Mass:50
+Engine:250 Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:5
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:13
+RA Armor:13
+LT Armor:17
+RT Armor:17
+CT Armor:20
+HD Armor:9
+LL Armor:16
+RL Armor:16
+RTL Armor:5
+RTR Armor:5
+RTC Armor:5
+
+Weapons:4
+1 ISHeavyBridgelayer, Left Torso
+1 ISMediumBridgelayer, Right Torso
+1 ISLightBridgelayer, Right Torso
+1 ISMGA, Right Torso, Ammo:400
+
+Left Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ISHeavyMG Ammo (100)
+-Empty-
+
+Right Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ISHeavyMG Ammo (100)
+-Empty-
+
+Left Torso:
+ISHeavyBridgelayer
+ISHeavyBridgelayer
+ISHeavyBridgelayer
+ISHeavyBridgelayer
+ISHeavyBridgelayer
+ISHeavyBridgelayer
+ISHeavyBridgelayer
+ISHeavyBridgelayer
+ISHeavyBridgelayer
+ISHeavyBridgelayer
+ISHeavyBridgelayer
+ISHeavyBridgelayer
+
+Right Torso:
+ISMGA
+ISHeavyMG
+ISHeavyMG
+ISHeavyMG
+ISHeavyMG
+ISMediumBridgelayer
+ISMediumBridgelayer
+ISMediumBridgelayer
+ISMediumBridgelayer
+ISLightBridgelayer
+ISLightBridgelayer
+Turret
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+-Empty-
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ISHeavyMG Ammo (100)
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ISHeavyMG Ammo (100)
+-Empty-

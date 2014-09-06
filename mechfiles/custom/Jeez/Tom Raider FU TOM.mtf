@@ -1,0 +1,133 @@
+Version:1.1
+Tom Raider
+FU TOM
+
+Config:Biped
+TechBase:Mixed (Clan Chassis)
+Era:0
+Rules Level:4
+
+Mass:75
+Engine:300 Fusion Engine (Clan)
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:13 Double (Clan)
+Walk MP:4
+Jump MP:0
+
+Armor:Ferro-Fibrous (Clan)
+LA Armor:24
+RA Armor:24
+LT Armor:24
+RT Armor:24
+CT Armor:36
+HD Armor:9
+LL Armor:31
+RL Armor:31
+RTL Armor:8
+RTR Armor:8
+RTC Armor:9
+
+Weapons:7
+1 ISSRM6, Left Arm, Ammo:150
+1 ISSRM6, Left Arm
+1 ISSRM6, Left Arm
+1 ISSRM6, Right Arm
+1 ISSRM6, Right Arm
+1 ISSRM6, Right Arm
+1 ISSRM6, Left Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISSRM6
+ISSRM6
+ISSRM6
+ISSRM6
+ISSRM6
+ISSRM6
+ISSRM6
+ISSRM6
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISSRM6
+ISSRM6
+ISSRM6
+ISSRM6
+ISSRM6
+ISSRM6
+ISSRM6 Ammo
+-Empty-
+
+Left Torso:
+ISSRM6 Ammo
+ISSRM6 Ammo
+ISSRM6 Ammo
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+ISSRM6 Ammo
+CLDouble Heat Sink
+CLDouble Heat Sink
+Ferro-Fibrous
+Ferro-Fibrous
+
+Right Torso:
+ISSRM6 Ammo
+ISSRM6 Ammo
+ISSRM6 Ammo
+ISSRM6 Ammo
+Endo-Steel
+Endo-Steel
+Endo-Steel
+-Empty-
+-Empty-
+-Empty-
+Ferro-Fibrous
+Ferro-Fibrous
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISSRM6 Ammo
+Ferro-Fibrous
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+Ferro-Fibrous
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+Ferro-Fibrous

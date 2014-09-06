@@ -1,0 +1,131 @@
+Version:1.1
+Zeno
+Z-L
+
+Config:Biped
+TechBase:Clan
+Era:3070
+Rules Level:2
+
+Mass:100
+Engine:300 Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:16 Double
+Walk MP:3
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:33
+RA Armor:33
+LT Armor:31
+RT Armor:31
+CT Armor:48
+HD Armor:9
+LL Armor:42
+RL Armor:42
+RTL Armor:11
+RTR Armor:11
+RTC Armor:13
+
+Weapons:5
+1 CLLRM20, Left Arm, Ammo:60
+1 CLLRM20, Right Torso
+1 CLLRM20, Left Arm
+1 CLLRM20, Right Arm
+1 CLLRM20, Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+CLLRM20
+CLLRM20
+CLLRM20
+CLLRM20
+CLArtemisIV
+CLLRM20
+CLLRM20
+CLLRM20
+CLLRM20
+CLArtemisIV
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+CLLRM20
+CLLRM20
+CLLRM20
+CLLRM20
+CLArtemisIV
+CLLRM20
+CLLRM20
+CLLRM20
+CLLRM20
+CLArtemisIV
+
+Left Torso:
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLLRM20 Ammo (Clan) Artemis-capable
+CLLRM20 Ammo (Clan) Artemis-capable
+CLLRM20 Ammo (Clan) Artemis-capable
+CLLRM20 Ammo (Clan) Artemis-capable
+-Empty-
+-Empty-
+
+Right Torso:
+CLLRM20
+CLLRM20
+CLLRM20
+CLLRM20
+CLArtemisIV
+CLLRM20 Ammo (Clan) Artemis-capable
+CLLRM20 Ammo (Clan) Artemis-capable
+CLLRM20 Ammo (Clan) Artemis-capable
+CLLRM20 Ammo (Clan) Artemis-capable
+CLLRM20 Ammo (Clan) Artemis-capable
+-Empty-
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+CLDouble Heat Sink
+CLDouble Heat Sink
+
+Head:
+Life Support
+Sensors
+Cockpit
+CLLRM20 Ammo (Clan) Artemis-capable
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-

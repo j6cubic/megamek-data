@@ -1,0 +1,135 @@
+Version:1.1
+Wesley
+WS-1
+
+Config:Biped
+TechBase:Mixed (Clan Chassis)
+Era:0
+Rules Level:4
+
+Mass:100
+Engine:300 Fusion Engine (Clan)
+Structure:Endo-Steel
+Gyro:Compact Gyro
+Myomer:Standard
+
+Heat Sinks:10 Double (Clan)
+Walk MP:3
+Jump MP:0
+
+Armor:Ferro-Fibrous (Clan)
+LA Armor:20
+RA Armor:20
+LT Armor:28
+RT Armor:28
+CT Armor:32
+HD Armor:9
+LL Armor:26
+RL Armor:26
+RTL Armor:7
+RTR Armor:7
+RTC Armor:8
+
+Weapons:8
+1 ISHVAC2, Left Arm, Ammo:150
+1 ISHVAC2, Left Arm
+1 ISHVAC2, Left Arm
+1 ISHVAC2, Right Arm
+1 ISHVAC2, Right Arm
+1 CLERMediumLaser, Right Arm
+1 CLERMediumLaser, Right Arm
+1 CL, Center Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISHVAC2
+ISHVAC2
+ISHVAC2
+ISHVAC2
+ISHVAC2
+ISHVAC2
+Endo-Steel
+Ferro-Fibrous
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISHVAC2
+ISHVAC2
+ISHVAC2
+ISHVAC2
+CLERMediumLaser
+CLERMediumLaser
+Endo-Steel
+Ferro-Fibrous
+
+Left Torso:
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+-Empty-
+Endo-Steel
+Ferro-Fibrous
+
+Right Torso:
+ISHVAC2 Ammo
+ISHVAC2 Ammo
+ISHVAC2 Ammo
+ISHVAC2 Ammo
+ISHVAC2 Ammo
+-Empty-
+-Empty-
+-Empty-
+Endo-Steel
+Endo-Steel
+Ferro-Fibrous
+CLCASEII
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Engine
+Engine
+Engine
+-Empty-
+-Empty-
+Ferro-Fibrous
+CL
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Ferro-Fibrous
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Ferro-Fibrous

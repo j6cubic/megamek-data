@@ -1,0 +1,82 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+VTOL
+</UnitType>
+
+<Name>
+All-Seeing Eye
+</Name>
+
+<Model>
+ASI-1
+</Model>
+
+<year>
+2750
+</year>
+
+<type>
+Mixed (Clan Chassis)
+</type>
+
+<motion_type>
+VTOL
+</motion_type>
+
+<cruiseMP>
+22
+</cruiseMP>
+
+<engine_type>
+3
+</engine_type>
+
+<armor_type>
+6
+</armor_type>
+
+<armor_tech>
+8
+</armor_tech>
+
+<armor>
+0
+0
+0
+0
+0
+</armor>
+
+<Body Equipment>
+ISC3iUnit
+CLAngelECMSuite
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Rotor Equipment>
+</Rotor Equipment>
+
+<tonnage>
+10.0
+</tonnage>
+
