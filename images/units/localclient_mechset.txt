@@ -19,6 +19,7 @@
 
 ### Add new entries between this and end ###
 exact "Fluttershy FS-1" "custom/Fluttershy FS-1.gif"
+chassis "Tom" "custom/Tom.gif"
 ### End ###
 
 # Add any include files below so that they override what is in this file.
