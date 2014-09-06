@@ -1,42 +1,10 @@
 Crazy Spotter Sara
 Immaculate Tom
 Konrad Amethyst
-LASERGUY Walking Wall
-Little Sniffer Armor Rat
-Little Sniffer Roadrunner
-Medium Guy Rounded Layer
-Medium Jumper Blademaster
-Medium Jumper SRM Tandem
-Mobile FIREDOGGY
-Mobile GUNDOGGY
-Runner FLAMEDOGGY
-Runner SHOTDOGGY
-Sir Long Shot Ballermann
-Walking Wall BIGBANGDOGGY
-Walking Wall GAUSSDOGGY
-Walking Wall LASERDOGGY
-Walking Wall LASERGUY
-Walking Wall Rocketdoggy
-Walking Wall temp
-
-Bomberturret A4X5HOM
-Bomberturret A4X5
-Bomberturret A4X5BS
-Stoneeye T30 TAG
-Stoneeye T30
-Standing Stone Boulder
-Standing Stone Missiletom
-Aireye Bare
-Stationary Artillery Long Tom
-Stationary Artillery Sniper
-Stationary Artillery Thumper
-Lamellar Stone S Tom Rocket
-Lamellar Stone TOM MK2
-Lamellar Stone Tom MK1
-Big Rollin' Hot Steel
-Rollin' Sniffer Armordillo
-Small Glider Of Spotting
-
+Armored Arena Feb 2014
+Gauss Arena Feb 2014
+Tankery Feb 2014
+Ultra Fat Gauss Mar 2014
 
 
 Generation 1 (G1)
@@ -45,6 +13,8 @@ Generation 1 (G1)
  35	2301	Support			Mk 1	EMP / Laser / Angel ECM 		
 100	2654	All Around Fighter	Mk 1	C3i / PPC / UAC 10 / MRM 20 / ECM
  30	1316	Spotter			Mk 1	C3i / Angel ECM / Laser
-
-
-
+100	3003	Long Range Laser 	Mk 1	C3i / PPC
+ 75	2294	Rotary			Mk 1	C3i / Rotary AC 5
+ 20	 562	Spotter			Mk 1	C3i / Angel ECM / Stealth
+ 55	2610	Tom			Mk 1	Angel ECM / EMP / Laser / Hardened
+ 60	1968	Mace			Mk 1	C3i / Angel ECM / Mace / Shield / Hardened

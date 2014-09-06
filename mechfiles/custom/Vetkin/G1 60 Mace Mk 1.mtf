@@ -1,0 +1,131 @@
+Version:1.1
+G1
+60 Mace Mk 1
+
+Config:Biped
+TechBase:Mixed (Clan Chassis)
+Era:0
+Rules Level:4
+
+Mass:60
+Engine:360 XXL Fusion Engine (Clan)
+Structure:Endo-Steel
+Gyro:XL Gyro
+Myomer:Standard
+
+Heat Sinks:10 Double (Clan)
+Walk MP:6
+Jump MP:0
+
+Armor:Hardened (Clan)
+LA Armor:19
+RA Armor:19
+LT Armor:20
+RT Armor:20
+CT Armor:30
+HD Armor:9
+LL Armor:27
+RL Armor:27
+RTL Armor:7
+RTR Armor:7
+RTC Armor:10
+
+Weapons:4
+1 ISImprovedC3CPU, Left Torso
+1 CLAngelECM, Right Torso
+1 Mace, Right Arm
+1 ISLargeShield, Left Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISLargeShield
+ISLargeShield
+ISLargeShield
+ISLargeShield
+ISLargeShield
+ISLargeShield
+ISLargeShield
+Endo-Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Mace
+Mace
+Mace
+Mace
+Mace
+Mace
+-Empty-
+Endo-Steel
+
+Left Torso:
+Engine
+Engine
+Engine
+Engine
+ISImprovedC3CPU
+ISImprovedC3CPU
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+Endo-Steel
+
+Right Torso:
+CLAngelECM
+CLAngelECM
+Engine
+Engine
+Engine
+Engine
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+Endo-Steel
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+
+Head:
+Life Support
+Sensors
+Cockpit
+Endo-Steel
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+Endo-Steel

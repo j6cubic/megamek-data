@@ -1,17 +1,15 @@
 Version:1.1
-Walking Wall
-LASERGUY
+G1
+100 Long Range Laser Mk 1
 
 Config:Biped
 TechBase:Mixed (Clan Chassis)
-Era:3070
+Era:0
 Rules Level:4
 
 Mass:100
-Engine:300 XL Fusion Engine (Clan)
+Engine:300 Fusion Engine (Clan)
 Structure:Standard
-Gyro:Compact Gyro
-Cockpit:Small Cockpit
 Myomer:Standard
 
 Heat Sinks:29 Double (Clan)
@@ -21,28 +19,28 @@ Jump MP:0
 Armor:Standard Armor (Clan)
 LA Armor:34
 RA Armor:34
-LT Armor:25
-RT Armor:25
-CT Armor:40
-HD Armor:6
+LT Armor:32
+RT Armor:32
+CT Armor:47
+HD Armor:9
 LL Armor:42
 RL Armor:42
-RTL Armor:17
-RTR Armor:17
-RTC Armor:22
+RTL Armor:10
+RTR Armor:10
+RTC Armor:15
 
 Weapons:5
+1 ISImprovedC3CPU, Center Torso
+1 CLERPPC, Left Torso
 1 CLERPPC, Right Torso
-1 CLERPPC, Left Arm
 1 CLERPPC, Right Arm
 1 CLERPPC, Left Arm
-1 CLERPPC, Right Arm
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
-CLERPPC
-CLERPPC
+Lower Arm Actuator
+Hand Actuator
 CLERPPC
 CLERPPC
 CLDouble Heat Sink
@@ -55,8 +53,8 @@ CLDouble Heat Sink
 Right Arm:
 Shoulder
 Upper Arm Actuator
-CLERPPC
-CLERPPC
+Lower Arm Actuator
+Hand Actuator
 CLERPPC
 CLERPPC
 CLDouble Heat Sink
@@ -67,22 +65,20 @@ CLDouble Heat Sink
 CLDouble Heat Sink
 
 Left Torso:
-Engine
-Engine
-CLTargeting Computer
-CLTargeting Computer
-CLTargeting Computer
-CLTargeting Computer
-CLTargeting Computer
-CLTargeting Computer
+CLERPPC
+CLERPPC
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
 CLDouble Heat Sink
 CLDouble Heat Sink
 CLDouble Heat Sink
 CLDouble Heat Sink
 
 Right Torso:
-Engine
-Engine
 CLERPPC
 CLERPPC
 CLDouble Heat Sink
@@ -93,6 +89,8 @@ CLDouble Heat Sink
 CLDouble Heat Sink
 CLDouble Heat Sink
 CLDouble Heat Sink
+-Empty-
+Turret
 
 Center Torso:
 Engine
@@ -100,21 +98,21 @@ Engine
 Engine
 Gyro
 Gyro
+Gyro
+Gyro
 Engine
 Engine
 Engine
-CLDouble Heat Sink
-CLDouble Heat Sink
-CLDouble Heat Sink
-CLDouble Heat Sink
+ISImprovedC3CPU
+ISImprovedC3CPU
 
 Head:
 Life Support
 Sensors
 Cockpit
+-Empty-
 Sensors
-CLDouble Heat Sink
-CLDouble Heat Sink
+Life Support
 
 Left Leg:
 Hip

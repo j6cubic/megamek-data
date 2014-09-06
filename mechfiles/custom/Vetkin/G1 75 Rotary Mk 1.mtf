@@ -1,0 +1,133 @@
+Version:1.1
+G1
+75 Rotary Mk 1
+
+Config:Biped
+TechBase:Mixed (Clan Chassis)
+Era:0
+Rules Level:4
+
+Mass:75
+Engine:300 XL Fusion Engine (Inner Sphere)
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:10 Double (Clan)
+Walk MP:4
+Jump MP:0
+
+Armor:Ferro-Fibrous (Clan)
+LA Armor:24
+RA Armor:24
+LT Armor:24
+RT Armor:24
+CT Armor:35
+HD Armor:9
+LL Armor:32
+RL Armor:32
+RTL Armor:8
+RTR Armor:8
+RTC Armor:11
+
+Weapons:7
+1 CLRotaryAC5, Left Arm, Ammo:80
+1 CLRotaryAC5, Left Torso
+1 CLRotaryAC5, Right Arm
+1 ISImprovedC3CPU, Right Torso
+1 CL, Right Torso
+1 CL, Left Torso
+1 CL, Center Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLRotaryAC5
+CLRotaryAC5
+CLRotaryAC5
+CLRotaryAC5
+CLRotaryAC5
+CLRotaryAC5
+CLRotaryAC5
+CLRotaryAC5
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLRotaryAC5
+CLRotaryAC5
+CLRotaryAC5
+CLRotaryAC5
+CLRotaryAC5
+CLRotaryAC5
+CLRotaryAC5
+CLRotaryAC5
+
+Left Torso:
+Engine
+Engine
+Engine
+CLRotaryAC5
+CLRotaryAC5
+CLRotaryAC5
+CLRotaryAC5
+CLRotaryAC5
+CLRotaryAC5
+CLRotaryAC5
+CLRotaryAC5
+CL
+
+Right Torso:
+Engine
+Engine
+Engine
+CL
+ISImprovedC3CPU
+ISImprovedC3CPU
+CLRotaryAC5 Ammo
+CLRotaryAC5 Ammo
+CLRotaryAC5 Ammo
+CLRotaryAC5 Ammo
+Ferro-Fibrous
+Ferro-Fibrous
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+CL
+Ferro-Fibrous
+
+Head:
+Life Support
+Sensors
+Cockpit
+Ferro-Fibrous
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+Ferro-Fibrous
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+Ferro-Fibrous

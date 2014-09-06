@@ -1,6 +1,6 @@
 Version:1.1
-Medium Jumper
-Blademaster
+G1
+55 Tom Mk 1
 
 Config:Biped
 TechBase:Mixed (Clan Chassis)
@@ -8,16 +8,16 @@ Era:0
 Rules Level:4
 
 Mass:55
-Engine:330 XXL Fusion Engine (Clan)
+Engine:220 XL Fusion Engine (Clan)
 Structure:Endo-Steel
-Gyro:Heavy Duty Gyro
+Gyro:XL Gyro
 Myomer:Standard
 
-Heat Sinks:14 Double (Clan)
-Walk MP:6
-Jump MP:6
+Heat Sinks:10 Double (Clan)
+Walk MP:4
+Jump MP:0
 
-Armor:Stealth Armor (Inner Sphere)
+Armor:Hardened (Clan)
 LA Armor:18
 RA Armor:18
 LT Armor:20
@@ -30,66 +30,70 @@ RTL Armor:6
 RTR Armor:6
 RTC Armor:9
 
-Weapons:3
-1 ISImprovedC3CPU, Right Torso
-1 ISLargeVibroBlade, Right Arm
-1 CLECMSuite, Left Torso
+Weapons:7
+1 CLAngelECM, Right Torso
+1 ISTSEMP, Right Arm
+1 CLERMediumPulseLaser, Left Arm
+1 CLERMediumPulseLaser, Right Torso
+1 CLERMediumPulseLaser, Left Torso
+1 CL, Right Arm
+1 CL, Left Torso
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
+CLERMediumPulseLaser
+CLERMediumPulseLaser
 -Empty-
 -Empty-
+-Empty-
+-Empty-
+-Empty-
 Endo-Steel
-Endo-Steel
-Endo-Steel
-Endo-Steel
-Stealth Armor
-Stealth Armor
 
 Right Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-CLAES
-CLAES
-ISLargeVibroBlade
-ISLargeVibroBlade
-ISLargeVibroBlade
-ISLargeVibroBlade
-Stealth Armor
-Stealth Armor
+ISTSEMP
+ISTSEMP
+ISTSEMP
+ISTSEMP
+ISTSEMP
+CL
+-Empty-
+Endo-Steel
 
 Left Torso:
 Engine
 Engine
-Engine
-Engine
-CLECMSuite
-Jump Jet
-Jump Jet
-Jump Jet
+CLERMediumPulseLaser
+CLERMediumPulseLaser
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+CL
+CLDouble Heat Sink
+CLDouble Heat Sink
 Endo-Steel
-Endo-Steel
-Stealth Armor
-Stealth Armor
+Turret
 
 Right Torso:
 Engine
 Engine
-Engine
-Engine
-ISImprovedC3CPU
-ISImprovedC3CPU
-Jump Jet
-Jump Jet
+CLAngelECM
+CLAngelECM
+-Empty-
+CLERMediumPulseLaser
+CLERMediumPulseLaser
 CLDouble Heat Sink
 CLDouble Heat Sink
-Stealth Armor
-Stealth Armor
+Endo-Steel
+Endo-Steel
+Turret
 
 Center Torso:
 Engine
@@ -99,17 +103,17 @@ Gyro
 Gyro
 Gyro
 Gyro
+Gyro
+Gyro
 Engine
 Engine
 Engine
-CL Super Charger
-Jump Jet
 
 Head:
 Life Support
 Sensors
 Cockpit
-Endo-Steel
+-Empty-
 Sensors
 Life Support
 
@@ -118,13 +122,13 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
-Stealth Armor
-Stealth Armor
+-Empty-
+Endo-Steel
 
 Right Leg:
 Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
-Stealth Armor
-Stealth Armor
+-Empty-
+Endo-Steel
