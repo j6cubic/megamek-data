@@ -16,7 +16,7 @@ Heat Sinks:22 Double
 Walk MP:3
 Jump MP:0
 
-Armor:Standard(IS/Clan)
+Armor:Standard(Clan)
 LA Armor:34
 RA Armor:34
 LT Armor:32
@@ -30,10 +30,10 @@ RTR Armor:10
 RTC Armor:15
 
 Weapons:4
-ER PPC, Right Arm
 ER PPC, Left Arm
-Ultra AC/10, Right Torso
+ER PPC, Right Arm
 MRM 20, Left Torso
+Ultra AC/10, Right Torso
 
 Left Arm:
 Shoulder
@@ -147,4 +147,5 @@ CLDoubleHeatSink
 -Empty-
 -Empty-
 
+imagefile:.\mechs\Supernova.gif
 
