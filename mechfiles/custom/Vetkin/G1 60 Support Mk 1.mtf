@@ -1,0 +1,154 @@
+Version:1.1
+G1
+60 Support Mk 1
+
+Config:Biped
+TechBase:Mixed (Clan Chassis)
+Era:3145
+Rules Level:4
+
+Mass:60
+Engine:240 XL (Clan) Engine
+Structure:Clan Endo Steel
+Myomer:Standard
+Cockpit:Standard Cockpit
+Gyro:XL Gyro
+
+Heat Sinks:12 Double
+Walk MP:4
+Jump MP:0
+
+Armor:Hardened(Clan)
+LA Armor:20
+RA Armor:20
+LT Armor:21
+RT Armor:21
+CT Armor:30
+HD Armor:9
+LL Armor:28
+RL Armor:28
+RTL Armor:7
+RTR Armor:7
+RTC Armor:10
+
+Weapons:6
+TSEMP Cannon, Left Arm
+TSEMP Cannon, Right Arm
+ER Medium Pulse Laser, Left Torso
+ER Medium Pulse Laser, Left Torso
+ER Medium Pulse Laser, Right Torso
+ER Medium Laser, Head
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+TSEMP Cannon
+TSEMP Cannon
+TSEMP Cannon
+TSEMP Cannon
+TSEMP Cannon
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+TSEMP Cannon
+TSEMP Cannon
+TSEMP Cannon
+TSEMP Cannon
+TSEMP Cannon
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+CLERMediumPulseLaser
+CLERMediumPulseLaser
+CLERMediumPulseLaser
+CLERMediumPulseLaser
+Clan Endo Steel
+Clan Endo Steel
+Clan Endo Steel
+CLDoubleHeatSink
+CLDoubleHeatSink
+-Empty-
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+CLERMediumPulseLaser
+CLERMediumPulseLaser
+Clan Endo Steel
+Clan Endo Steel
+Clan Endo Steel
+Clan Endo Steel
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+
+Head:
+Life Support
+Sensors
+Cockpit
+CLERMediumLaser
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

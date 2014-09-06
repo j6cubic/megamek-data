@@ -36,3 +36,15 @@ Lamellar Stone Tom MK1
 Big Rollin' Hot Steel
 Rollin' Sniffer Armordillo
 Small Glider Of Spotting
+
+
+
+Generation 1 (G1)
+------------
+ 60 		Support			Mk 1	EMP / Laser				
+ 35	2301	Support			Mk 1	EMP / Laser / Angel ECM 		
+100	2654	All Around Fighter	Mk 1	C3i / PPC / UAC 10 / MRM 20 / ECM
+ 30	1316	Spotter			Mk 1	C3i / Angel ECM / Laser
+
+
+

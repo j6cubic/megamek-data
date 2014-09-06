@@ -1,0 +1,150 @@
+Version:1.0
+G1
+100 Standard Mk 1
+
+Config:Biped
+TechBase:Mixed (Clan Chassis)
+Era:3145
+Rules Level:4
+
+Mass:100
+Engine:300 Fusion (Clan) Engine
+Structure:Clan Endo Steel
+Myomer:Standard
+
+Heat Sinks:22 Double
+Walk MP:3
+Jump MP:0
+
+Armor:Standard(IS/Clan)
+LA Armor:34
+RA Armor:34
+LT Armor:32
+RT Armor:32
+CT Armor:47
+HD Armor:9
+LL Armor:42
+RL Armor:42
+RTL Armor:10
+RTR Armor:10
+RTC Armor:15
+
+Weapons:4
+ER PPC, Right Arm
+ER PPC, Left Arm
+Ultra AC/10, Right Torso
+MRM 20, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLERPPC
+CLERPPC
+CLDoubleHeatSink
+CLDoubleHeatSink
+Clan Endo Steel
+Clan Endo Steel
+Clan Endo Steel
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLERPPC
+CLERPPC
+CLDoubleHeatSink
+CLDoubleHeatSink
+Clan Endo Steel
+Clan Endo Steel
+Clan Endo Steel
+-Empty-
+
+Left Torso:
+MRM 20
+MRM 20
+MRM 20
+IS MRM 20 Ammo
+IS MRM 20 Ammo
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+Clan Endo Steel
+
+Right Torso:
+CLUltraAC10
+CLUltraAC10
+CLUltraAC10
+CLUltraAC10
+Clan Ultra AC/10 Ammo
+Clan Ultra AC/10 Ammo
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISC3iUnit
+ISC3iUnit
+
+Head:
+Life Support
+Sensors
+Cockpit
+CLECMSuite
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDoubleHeatSink
+CLDoubleHeatSink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDoubleHeatSink
+CLDoubleHeatSink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

@@ -1,0 +1,153 @@
+Version:1.1
+G1
+35 Support Mk 1
+
+Config:Biped
+TechBase:Mixed (Clan Chassis)
+Era:3145
+Rules Level:4
+
+Mass:35
+Engine:210 XL (Clan) Engine
+Structure:IS Standard
+Myomer:Standard
+Cockpit:Standard Cockpit
+Gyro:XL Gyro
+
+Heat Sinks:10 Double
+Walk MP:6
+Jump MP:0
+
+Armor:Standard(IS/Clan)
+LA Armor:12
+RA Armor:12
+LT Armor:12
+RT Armor:12
+CT Armor:17
+HD Armor:9
+LL Armor:16
+RL Armor:16
+RTL Armor:4
+RTR Armor:4
+RTC Armor:5
+
+Weapons:5
+TSEMP Cannon, Right Arm
+ER Medium Laser, Right Torso
+ER Medium Laser, Left Torso
+ER Medium Laser, Left Arm
+ER Medium Laser, Head
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLERMediumLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+TSEMP Cannon
+TSEMP Cannon
+TSEMP Cannon
+TSEMP Cannon
+TSEMP Cannon
+ISCASEII
+-Empty-
+-Empty-
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+CLAngelECMSuite
+CLAngelECMSuite
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLERMediumLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+CLTargeting Computer
+CLTargeting Computer
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLERMediumLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+
+Head:
+Life Support
+Sensors
+Cockpit
+CLERMediumLaser
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+
