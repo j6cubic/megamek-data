@@ -18,8 +18,11 @@
 # As of v0.29.61, mechset files can include other mechset files.
 
 ### Add new entries between this and end ###
-exact "Fluttershy FS-1" "custom/Fluttershy FS-1.gif"
+chassis "Ghostof" "custom/Ghostof G1.gif"
 chassis "Tom" "custom/Tom.gif"
+
+exact "ECM Squared E2" "custom/ECM Squared E2.gif"
+exact "Fluttershy FS-1" "custom/Fluttershy FS-1.gif"
 ### End ###
 
 # Add any include files below so that they override what is in this file.

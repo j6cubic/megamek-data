@@ -1,0 +1,132 @@
+Version:1.1
+Ghostof
+G1
+
+Config:Biped
+TechBase:Mixed (Clan Chassis)
+Era:3070
+Rules Level:4
+
+Mass:30
+Engine:270 XXL Fusion Engine (Clan)
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:10 Double (Clan)
+Walk MP:9
+Jump MP:4
+
+Armor:Ferro-Fibrous (Clan)
+LA Armor:6
+RA Armor:6
+LT Armor:9
+RT Armor:9
+CT Armor:10
+HD Armor:9
+LL Armor:9
+RL Armor:9
+RTL Armor:3
+RTR Armor:3
+RTC Armor:3
+
+Weapons:6
+1 ISImprovedC3CPU, Left Torso
+1 CLAngelECM, Right Torso
+1 CLERMediumLaser, Left Arm
+1 CLERMediumLaser, Right Arm
+1 CLERSmallLaser, Right Arm
+1 CLERSmallLaser, Left Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLERMediumLaser
+CLERSmallLaser
+-Empty-
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Endo-Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLERMediumLaser
+CLERSmallLaser
+-Empty-
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+
+Left Torso:
+Engine
+Engine
+Engine
+Engine
+CLPartialWing
+CLPartialWing
+CLPartialWing
+ISImprovedC3CPU
+ISImprovedC3CPU
+Jump Jet
+Jump Jet
+Endo-Steel
+
+Right Torso:
+Engine
+Engine
+Engine
+Engine
+CLPartialWing
+CLPartialWing
+CLPartialWing
+CLAngelECM
+CLAngelECM
+Jump Jet
+Jump Jet
+Endo-Steel
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+CL Super Charger
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLAES
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLAES
+Endo-Steel
