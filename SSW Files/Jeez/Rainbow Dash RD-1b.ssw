@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Rainbow Dash" model="RD-1b" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>1010</battle_value>
-    <cost>2.2220315E7</cost>
+    <battle_value>930</battle_value>
+    <cost>2.2194315E7</cost>
     <rules_level>3</rules_level>
     <era>4</era>
     <productionera>0</productionera>
@@ -32,16 +32,16 @@
     <armor manufacturer="Unknown" techbase="1">
         <type>Ferro-Fibrous</type>
         <hd>9</hd>
-        <ct>13</ct>
-        <ctr>4</ctr>
-        <lt>10</lt>
-        <ltr>4</ltr>
-        <rt>10</rt>
-        <rtr>4</rtr>
-        <la>9</la>
-        <ra>9</ra>
-        <ll>12</ll>
-        <rl>12</rl>
+        <ct>10</ct>
+        <ctr>3</ctr>
+        <lt>9</lt>
+        <ltr>3</ltr>
+        <rt>9</rt>
+        <rtr>3</rtr>
+        <la>6</la>
+        <ra>6</ra>
+        <ll>9</ll>
+        <rl>9</rl>
         <location index="8">LT</location>
         <location index="8">RT</location>
         <location index="9">LT</location>
@@ -52,8 +52,8 @@
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source></source>
-        <info>Rainbow Dash RD-1b 30t, 10/15[25]/5 MASC, XXLFE, ES; 5.0T/91% FF Armor; 11 DHS; 11 SL</info>
-        <battleforce pv="10" wt="1" mv="15/3j" s="4" m="0" l="0" e="0" ov="0" armor="3" internal="1" abilities="ENE, SRCH, ES, SEAL, SOA" />
+        <info>Rainbow Dash RD-1b 30t, 10/15[25]/5 MASC, XXLFE, ES; 4.0T/72% FF Armor; 11 DHS; 11 SL</info>
+        <battleforce pv="9" wt="1" mv="15/3j" s="4" m="0" l="0" e="0" ov="0" armor="3" internal="1" abilities="ENE, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="5">

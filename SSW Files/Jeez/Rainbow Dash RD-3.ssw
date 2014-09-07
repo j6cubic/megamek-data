@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Rainbow Dash" model="RD-3" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>1068</battle_value>
-    <cost>3.1693050000000004E7</cost>
+    <battle_value>992</battle_value>
+    <cost>3.1666050000000004E7</cost>
     <rules_level>3</rules_level>
     <era>4</era>
     <productionera>0</productionera>
@@ -32,16 +32,16 @@
     <armor manufacturer="Unknown" techbase="1">
         <type>Ferro-Fibrous</type>
         <hd>9</hd>
-        <ct>10</ct>
-        <ctr>3</ctr>
-        <lt>9</lt>
-        <ltr>3</ltr>
-        <rt>9</rt>
-        <rtr>3</rtr>
-        <la>6</la>
-        <ra>6</ra>
-        <ll>9</ll>
-        <rl>9</rl>
+        <ct>8</ct>
+        <ctr>2</ctr>
+        <lt>7</lt>
+        <ltr>1</ltr>
+        <rt>7</rt>
+        <rtr>1</rtr>
+        <la>5</la>
+        <ra>5</ra>
+        <ll>6</ll>
+        <rl>6</rl>
         <location index="5">LL</location>
         <location index="5">RL</location>
         <location index="8">LT</location>
@@ -52,8 +52,8 @@
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source></source>
-        <info>Rainbow Dash RD-3 35t, 10/15[25]/6 MASC, XXLFE, ES, XL Gyro; 4.0T/64% FF Armor; 11 DHS; 6 SL, 1 C3I, 10 ERMcL</info>
-        <battleforce pv="11" wt="1" mv="15/4j" s="4" m="2" l="0" e="0" ov="0" armor="3" internal="1" abilities="C3I, ENE, MHQ2, SRCH, ES, SEAL, SOA" />
+        <info>Rainbow Dash RD-3 35t, 10/15[25]/6 MASC, XXLFE, ES, XL Gyro; 3.0T/48% FF Armor; 11 DHS; 6 SL, 1 C3I, 10 ERMcL</info>
+        <battleforce pv="10" wt="1" mv="15/4j" s="4" m="2" l="0" e="0" ov="0" armor="2" internal="1" abilities="C3I, ENE, MHQ2, SRCH, ES, SEAL, SOA" />
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="6">

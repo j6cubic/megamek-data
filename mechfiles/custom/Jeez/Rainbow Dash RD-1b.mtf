@@ -17,17 +17,17 @@ Walk MP:10
 Jump MP:5
 
 Armor:Ferro-Fibrous
-LA Armor:9
-RA Armor:9
-LT Armor:10
-RT Armor:10
-CT Armor:13
+LA Armor:6
+RA Armor:6
+LT Armor:9
+RT Armor:9
+CT Armor:10
 HD Armor:9
-LL Armor:12
-RL Armor:12
-RTL Armor:4
-RTR Armor:4
-RTC Armor:4
+LL Armor:9
+RL Armor:9
+RTL Armor:3
+RTR Armor:3
+RTC Armor:3
 
 Weapons:11
 1 ISSmallLaser, Left Arm
