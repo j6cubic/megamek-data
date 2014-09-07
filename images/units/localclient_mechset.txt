@@ -18,6 +18,7 @@
 # As of v0.29.61, mechset files can include other mechset files.
 
 ### Add new entries between this and end ###
+chassis "Alacorn II" "custom/Alacorn II.gif"
 chassis "Ghostof" "custom/Ghostof G1.gif"
 chassis "Tom" "custom/Tom.gif"
 chassis "Rainbow Dash" "custom/Rainbow Dash RD-1.gif"
