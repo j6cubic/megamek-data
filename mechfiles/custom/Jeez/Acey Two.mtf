@@ -1,0 +1,130 @@
+Version:1.1
+Acey
+Two
+
+Config:Biped
+TechBase:Mixed (Clan Chassis)
+Era:3070
+Rules Level:4
+
+Mass:65
+Engine:260 Fusion Engine (Clan)
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:10 Double (Clan)
+Walk MP:4
+Jump MP:0
+
+Armor:Ferro-Lamellor (Clan)
+LA Armor:20
+RA Armor:20
+LT Armor:22
+RT Armor:22
+CT Armor:32
+HD Armor:9
+LL Armor:30
+RL Armor:30
+RTL Armor:8
+RTR Armor:8
+RTC Armor:9
+
+Weapons:4
+1 ISAC2, Left Arm, Ammo:135
+1 ISAC2, Left Arm
+1 ISAC2, Right Arm
+1 CLMediumPulseLaser, Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISAC2
+ISAC2
+-Empty-
+-Empty-
+Endo-Steel
+Endo-Steel
+Ferro-Lamellor
+Ferro-Lamellor
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISAC2
+CLMediumPulseLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+Endo-Steel
+Ferro-Lamellor
+
+Left Torso:
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+Endo-Steel
+Ferro-Lamellor
+Ferro-Lamellor
+
+Right Torso:
+ISAC2 Ammo
+ISAC2 Ammo
+ISAC2 Ammo
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+Endo-Steel
+Ferro-Lamellor
+Ferro-Lamellor
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Ferro-Lamellor
+Ferro-Lamellor
+
+Head:
+Life Support
+Sensors
+Cockpit
+Ferro-Lamellor
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Ferro-Lamellor
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Ferro-Lamellor

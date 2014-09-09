@@ -23,10 +23,12 @@ chassis "Ghostof" "custom/Ghostof G1.gif"
 chassis "Tom" "custom/Tom.gif"
 chassis "Rainbow Dash" "custom/Rainbow Dash RD-1.gif"
 
+exact "Angel A-1" "custom/Angel A-1.gif"
 exact "ECM Squared E1" "custom/ECM Squared E1.gif"
 exact "ECM Squared E2" "custom/ECM Squared E2.gif"
 exact "ECM Squared E3" "custom/ECM Squared E3.gif"
 exact "Fluttershy FS-1" "custom/Fluttershy FS-1.gif"
+exact "MAKE IT RAAAAIN Rokkits" "custom/MAKE IT RAAAAIN Rokkits.gif"
 exact "Rainbow Dash RD-2" "custom/Rainbow Dash RD-2.gif"
 exact "Rainbow Dash RD-3" "custom/Rainbow Dash RD-3.gif"
 ### End ###

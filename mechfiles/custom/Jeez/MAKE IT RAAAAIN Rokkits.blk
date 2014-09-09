@@ -1,0 +1,97 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+MAKE IT RAAAAIN
+</Name>
+
+<Model>
+Rokkits
+</Model>
+
+<year>
+3145
+</year>
+
+<type>
+Clan Level 4
+</type>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<cruiseMP>
+2
+</cruiseMP>
+
+<engine_type>
+3
+</engine_type>
+
+<armor_type>
+1
+</armor_type>
+
+<armor_tech>
+8
+</armor_tech>
+
+<armor>
+96
+48
+48
+48
+48
+</armor>
+
+<Body Equipment>
+CLArrowIV
+CLArrowIV
+CLArrowIV
+CLArrowIV
+CLArrowIVHomingAmmo
+CLArrowIVHomingAmmo
+CLArrowIVHomingAmmo
+CLAngelECMSuite
+CLCASEII
+CLArrowIVAmmo
+CLArrowIVAmmo
+CLArrowIVAmmo
+CLArrowIVClusterAmmo
+CLArrowIVClusterAmmo
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+CLERMediumPulseLaser
+CLERMediumPulseLaser
+CLCASEII
+</Turret Equipment>
+
+<tonnage>
+100.0
+</tonnage>
+
